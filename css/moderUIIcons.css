@@ -1,0 +1,56 @@
+/*css icon*/
+
+i.icon {
+	background-size: 150% !important;
+	background-repeat: no-repeat;
+	display: inline-block;
+	width: 20px;
+	height: 16px;
+	background-position: 50% !important;
+}
+
+i.medium {
+	width: 40px;
+	height: 35px;
+	/*background-position: -9px !important;*/
+}
+
+i.large {
+	width: 54px;
+	height: 46px;
+	/*background-position: 1px !important;*/
+}
+
+
+i.icon.list,
+i.icon.list.dark{
+	background: url(../img/dark/appbar.list.check.png);
+}
+
+i.icon.list.light{
+	background: url(../img/light/appbar.list.check.png);
+}
+
+i.icon.acorn,
+i.icon.acorn.dark{
+	background: url(../img/dark/appbar.acorn.png);
+}
+
+i.icon.acorn.light{
+	background: url(../img/light/appbar.acorn.png);
+}
+
+i.icon.add,
+i.icon.add.dark{
+	background: url(../img/dark/appbar.add.png);
+}
+
+i.icon.add.light{
+	background: url(../img/light/appbar.add.png);
+}
+
+
+
+
+
+
