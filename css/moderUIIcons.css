@@ -1,6 +1,9 @@
-/*css icon*/
+/**
+ * Adoel Razman
+ */
 
-i.icon {
+.icon,
+.icon.normal {
 	background-size: 150% !important;
 	background-repeat: no-repeat;
 	display: inline-block;
@@ -9,48 +12,182 @@ i.icon {
 	background-position: 50% !important;
 }
 
-i.medium {
+.icon.medium {
 	width: 40px;
 	height: 35px;
 	/*background-position: -9px !important;*/
 }
 
-i.large {
+.icon.large {
 	width: 54px;
 	height: 46px;
 	/*background-position: 1px !important;*/
 }
 
+/* New icons added */
 
-i.icon.list,
-i.icon.list.dark{
-	background: url(../img/dark/appbar.list.check.png);
-}
-
-i.icon.list.light{
-	background: url(../img/light/appbar.list.check.png);
-}
-
-i.icon.acorn,
-i.icon.acorn.dark{
+.icon.acorn,
+.icon.acorn.dark{
 	background: url(../img/dark/appbar.acorn.png);
 }
 
-i.icon.acorn.light{
+.icon.acorn.light{
 	background: url(../img/light/appbar.acorn.png);
 }
 
-i.icon.add,
-i.icon.add.dark{
+.icon.add,
+.icon.add.dark{
 	background: url(../img/dark/appbar.add.png);
 }
 
-i.icon.add.light{
+.icon.add.light{
 	background: url(../img/light/appbar.add.png);
+}
+
+.icon.adobe.acrobat,
+.icon.adobe.acrobat.dark{
+	background: url(../img/dark/appbar.adobe.acrobat.png);
+}
+
+.icon.adobe.acrobat.light{
+	background: url(../img/light/appbar.adobe.acrobat.png);
+}
+
+.icon.adobe.aftereffects,
+.icon.adobe.aftereffects.dark{
+	background: url(../img/dark/appbar.adobe.aftereffects.png);
+}
+
+.icon.adobe.aftereffects.light{
+	background: url(../img/light/appbar.adobe.aftereffects.png);
 }
 
 
 
 
 
+.icon.adobe.audition,
+.icon.adobe.audition.dark{
+	background: url(../img/dark/appbar.adobe.audition.png);
+}
 
+.icon.adobe.audition.light{
+	background: url(../img/light/appbar.adobe.audition.png);
+}
+
+.icon.adobe.bridge,
+.icon.adobe.bridge.dark{
+	background: url(../img/dark/appbar.adobe.bridge.png);
+}
+
+.icon.adobe.bridge.light{
+	background: url(../img/light/appbar.adobe.bridge.png);
+}
+
+.icon.adobe.dreamweaver,
+.icon.adobe.dreamweaver.dark{
+	background: url(../img/dark/appbar.adobe.dreamweaver.png);
+}
+
+.icon.adobe.dreamweaver.light{
+	background: url(../img/light/appbar.adobe.dreamweaver.png);
+}
+
+.icon.adobe.encore,
+.icon.adobe.encore.dark{
+	background: url(../img/dark/appbar.adobe.encore.png);
+}
+
+.icon.adobe.encore.light{
+	background: url(../img/light/appbar.adobe.encore.png);
+}
+
+.icon.adobe.fireworks,
+.icon.adobe.fireworks.dark{
+	background: url(../img/dark/appbar.adobe.fireworks.png);
+}
+
+.icon.adobe.fireworks.light{
+	background: url(../img/light/appbar.adobe.fireworks.png);
+}
+
+.icon.adobe.flash,
+.icon.adobe.flash.dark{
+	background: url(../img/dark/appbar.adobe.flash.png);
+}
+
+.icon.adobe.flash.light{
+	background: url(../img/light/appbar.adobe.flash.png);
+}
+
+.icon.adobe.flashbuilder,
+.icon.adobe.flashbuilder.dark{
+	background: url(../img/dark/appbar.adobe.flashbuilder.png);
+}
+
+.icon.adobe.flashbuilder.light{
+	background: url(../img/light/appbar.adobe.flashbuilder.png);
+}
+
+.icon.adobe.illustrator,
+.icon.adobe.illustrator.dark{
+	background: url(../img/dark/appbar.adobe.illustrator.png);
+}
+
+.icon.adobe.illustrator.light{
+	background: url(../img/light/appbar.adobe.illustrator.png);
+}
+
+.icon.adobe.indesign,
+.icon.adobe.indesign.dark{
+	background: url(../img/dark/appbar.adobe.indesign.png);
+}
+
+.icon.adobe.indesign.light{
+	background: url(../img/light/appbar.adobe.indesign.png);
+}
+
+.icon.adobe.lightroom,
+.icon.adobe.lightroom.dark{
+	background: url(../img/dark/appbar.adobe.lightroom.png);
+}
+
+.icon.adobe.lightroom.light{
+	background: url(../img/light/appbar.adobe.lightroom.png);
+}
+
+.icon.adobe.photoshop,
+.icon.adobe.photoshop.dark{
+	background: url(../img/dark/appbar.adobe.photoshop.png);
+}
+
+.icon.adobe.photoshop.light{
+	background: url(../img/light/appbar.adobe.photoshop.png);
+}
+
+.icon.adobe.prelude,
+.icon.adobe.prelude.dark{
+	background: url(../img/dark/appbar.adobe.prelude.png);
+}
+
+.icon.adobe.prelude.light{
+	background: url(../img/light/appbar.adobe.prelude.png);
+}
+
+.icon.adobe.premierpro,
+.icon.adobe.premierpro.dark{
+	background: url(../img/dark/appbar.adobe.premierpro.png);
+}
+
+.icon.adobe.premierpro.light{
+	background: url(../img/light/appbar.adobe.premierpro.png);
+}
+
+.icon.adobe.speedgrade,
+.icon.adobe.speedgrade.dark{
+	background: url(../img/dark/appbar.adobe.speedgrade.png);
+}
+
+.icon.adobe.speedgrade.light{
+	background: url(../img/light/appbar.adobe.speedgrade.png);
+}
