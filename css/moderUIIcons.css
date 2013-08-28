@@ -24,8 +24,6 @@
 	/*background-position: 1px !important;*/
 }
 
-/* New icons added */
-
 .icon.acorn,
 .icon.acorn.dark{
 	background: url(../img/dark/appbar.acorn.png);
@@ -61,10 +59,6 @@
 .icon.adobe.aftereffects.light{
 	background: url(../img/light/appbar.adobe.aftereffects.png);
 }
-
-
-
-
 
 .icon.adobe.audition,
 .icon.adobe.audition.dark{
@@ -190,4 +184,2558 @@
 
 .icon.adobe.speedgrade.light{
 	background: url(../img/light/appbar.adobe.speedgrade.png);
+}
+
+/* New items */
+
+.icon.alert,
+.icon.alert.dark{
+	background: url(../img/dark/appbar.alert.png);
+}
+
+.icon.alert.light{
+	background: url(../img/light/appbar.alert.png);
+}
+
+
+.icon.alien,
+.icon.alien.dark{
+	background: url(../img/dark/appbar.alien.png);
+}
+
+.icon.alien.light{
+	background: url(../img/light/appbar.alien.png);
+}
+
+
+.icon.align.center,
+.icon.align.center.dark{
+	background: url(../img/dark/appbar.align.center.png);
+}
+
+.icon.align.center.light{
+	background: url(../img/light/appbar.align.center.png);
+}
+
+
+.icon.align.justify,
+.icon.align.justify.dark{
+	background: url(../img/dark/appbar.align.justify.png);
+}
+
+.icon.align.justify.light{
+	background: url(../img/light/appbar.align.justify.png);
+}
+
+
+.icon.align.left,
+.icon.align.left.dark{
+	background: url(../img/dark/appbar.align.left.png);
+}
+
+.icon.align.left.light{
+	background: url(../img/light/appbar.align.left.png);
+}
+
+
+.icon.align.right,
+.icon.align.right.dark{
+	background: url(../img/dark/appbar.align.right.png);
+}
+
+.icon.align.right.light{
+	background: url(../img/light/appbar.align.right.png);
+}
+
+
+.icon.anchor,
+.icon.anchor.dark{
+	background: url(../img/dark/appbar.anchor.png);
+}
+
+.icon.anchor.light{
+	background: url(../img/light/appbar.anchor.png);
+}
+
+
+.icon.app.favorite,
+.icon.app.favorite.dark{
+	background: url(../img/dark/appbar.app.favorite.png);
+}
+
+.icon.app.favorite.light{
+	background: url(../img/light/appbar.app.favorite.png);
+}
+
+
+.icon.app.minus,
+.icon.app.minus.dark{
+	background: url(../img/dark/appbar.app.minus.png);
+}
+
+.icon.app.minus.light{
+	background: url(../img/light/appbar.app.minus.png);
+}
+
+
+.icon.app.plus,
+.icon.app.plus.dark{
+	background: url(../img/dark/appbar.app.plus.png);
+}
+
+.icon.app.plus.light{
+	background: url(../img/light/appbar.app.plus.png);
+}
+
+
+.icon.app,
+.icon.app.dark{
+	background: url(../img/dark/appbar.app.png);
+}
+
+.icon.app.light{
+	background: url(../img/light/appbar.app.png);
+}
+
+
+.icon.app.remove,
+.icon.app.remove.dark{
+	background: url(../img/dark/appbar.app.remove.png);
+}
+
+.icon.app.remove.light{
+	background: url(../img/light/appbar.app.remove.png);
+}
+
+
+.icon.arcade.button,
+.icon.arcade.button.dark{
+	background: url(../img/dark/appbar.arcade.button.png);
+}
+
+.icon.arcade.button.light{
+	background: url(../img/light/appbar.arcade.button.png);
+}
+
+
+.icon.archive,
+.icon.archive.dark{
+	background: url(../img/dark/appbar.archive.png);
+}
+
+.icon.archive.light{
+	background: url(../img/light/appbar.archive.png);
+}
+
+
+.icon.arrow.collapsed,
+.icon.arrow.collapsed.dark{
+	background: url(../img/dark/appbar.arrow.collapsed.png);
+}
+
+.icon.arrow.collapsed.light{
+	background: url(../img/light/appbar.arrow.collapsed.png);
+}
+
+
+.icon.arrow.corner.up.right,
+.icon.arrow.corner.up.right.dark{
+	background: url(../img/dark/appbar.arrow.corner.up.right.png);
+}
+
+.icon.arrow.corner.up.right.light{
+	background: url(../img/light/appbar.arrow.corner.up.right.png);
+}
+
+
+.icon.arrow.down,
+.icon.arrow.down.dark{
+	background: url(../img/dark/appbar.arrow.down.png);
+}
+
+.icon.arrow.down.light{
+	background: url(../img/light/appbar.arrow.down.png);
+}
+
+
+.icon.arrow.down.up,
+.icon.arrow.down.up.dark{
+	background: url(../img/dark/appbar.arrow.down.up.png);
+}
+
+.icon.arrow.down.up.light{
+	background: url(../img/light/appbar.arrow.down.up.png);
+}
+
+
+.icon.arrow.expand,
+.icon.arrow.expand.dark{
+	background: url(../img/dark/appbar.arrow.expand.png);
+}
+
+.icon.arrow.expand.light{
+	background: url(../img/light/appbar.arrow.expand.png);
+}
+
+
+.icon.arrow.left,
+.icon.arrow.left.dark{
+	background: url(../img/dark/appbar.arrow.left.png);
+}
+
+.icon.arrow.left.light{
+	background: url(../img/light/appbar.arrow.left.png);
+}
+
+
+.icon.arrow.left.right,
+.icon.arrow.left.right.dark{
+	background: url(../img/dark/appbar.arrow.left.right.png);
+}
+
+.icon.arrow.left.right.light{
+	background: url(../img/light/appbar.arrow.left.right.png);
+}
+
+
+.icon.arrow.right.left,
+.icon.arrow.right.left.dark{
+	background: url(../img/dark/appbar.arrow.right.left.png);
+}
+
+.icon.arrow.right.left.light{
+	background: url(../img/light/appbar.arrow.right.left.png);
+}
+
+
+.icon.arrow.right,
+.icon.arrow.right.dark{
+	background: url(../img/dark/appbar.arrow.right.png);
+}
+
+.icon.arrow.right.light{
+	background: url(../img/light/appbar.arrow.right.png);
+}
+
+
+.icon.arrow.up.down,
+.icon.arrow.up.down.dark{
+	background: url(../img/dark/appbar.arrow.up.down.png);
+}
+
+.icon.arrow.up.down.light{
+	background: url(../img/light/appbar.arrow.up.down.png);
+}
+
+
+.icon.arrow.up,
+.icon.arrow.up.dark{
+	background: url(../img/dark/appbar.arrow.up.png);
+}
+
+.icon.arrow.up.light{
+	background: url(../img/light/appbar.arrow.up.png);
+}
+
+
+.icon.at,
+.icon.at.dark{
+	background: url(../img/dark/appbar.at.png);
+}
+
+.icon.at.light{
+	background: url(../img/light/appbar.at.png);
+}
+
+
+.icon.axis.three,
+.icon.axis.three.dark{
+	background: url(../img/dark/appbar.axis.three.png);
+}
+
+.icon.axis.three.light{
+	background: url(../img/light/appbar.axis.three.png);
+}
+
+
+.icon.baby,
+.icon.baby.dark{
+	background: url(../img/dark/appbar.baby.png);
+}
+
+.icon.baby.light{
+	background: url(../img/light/appbar.baby.png);
+}
+
+
+.icon.barcode,
+.icon.barcode.dark{
+	background: url(../img/dark/appbar.barcode.png);
+}
+
+.icon.barcode.light{
+	background: url(../img/light/appbar.barcode.png);
+}
+
+
+.icon.base,
+.icon.base.dark{
+	background: url(../img/dark/appbar.base.png);
+}
+
+.icon.base.light{
+	background: url(../img/light/appbar.base.png);
+}
+
+
+.icon.base.select,
+.icon.base.select.dark{
+	background: url(../img/dark/appbar.base.select.png);
+}
+
+.icon.base.select.light{
+	background: url(../img/light/appbar.base.select.png);
+}
+
+
+.icon.bath,
+.icon.bath.dark{
+	background: url(../img/dark/appbar.bath.png);
+}
+
+.icon.bath.light{
+	background: url(../img/light/appbar.bath.png);
+}
+
+
+.icon.battery.0,
+.icon.battery.0.dark{
+	background: url(../img/dark/appbar.battery.0.png);
+}
+
+.icon.battery.0.light{
+	background: url(../img/light/appbar.battery.0.png);
+}
+
+
+.icon.battery.1,
+.icon.battery.1.dark{
+	background: url(../img/dark/appbar.battery.1.png);
+}
+
+.icon.battery.1.light{
+	background: url(../img/light/appbar.battery.1.png);
+}
+
+
+.icon.battery.2,
+.icon.battery.2.dark{
+	background: url(../img/dark/appbar.battery.2.png);
+}
+
+.icon.battery.2.light{
+	background: url(../img/light/appbar.battery.2.png);
+}
+
+
+.icon.battery.3,
+.icon.battery.3.dark{
+	background: url(../img/dark/appbar.battery.3.png);
+}
+
+.icon.battery.3.light{
+	background: url(../img/light/appbar.battery.3.png);
+}
+
+
+.icon.bed,
+.icon.bed.dark{
+	background: url(../img/dark/appbar.bed.png);
+}
+
+.icon.bed.light{
+	background: url(../img/light/appbar.bed.png);
+}
+
+
+.icon.beer.guinness,
+.icon.beer.guinness.dark{
+	background: url(../img/dark/appbar.beer.guinness.png);
+}
+
+.icon.beer.guinness.light{
+	background: url(../img/light/appbar.beer.guinness.png);
+}
+
+
+.icon.beer,
+.icon.beer.dark{
+	background: url(../img/dark/appbar.beer.png);
+}
+
+.icon.beer.light{
+	background: url(../img/light/appbar.beer.png);
+}
+
+
+.icon.billboard,
+.icon.billboard.dark{
+	background: url(../img/dark/appbar.billboard.png);
+}
+
+.icon.billboard.light{
+	background: url(../img/light/appbar.billboard.png);
+}
+
+
+.icon.bing,
+.icon.bing.dark{
+	background: url(../img/dark/appbar.bing.png);
+}
+
+.icon.bing.light{
+	background: url(../img/light/appbar.bing.png);
+}
+
+
+.icon.book.contact,
+.icon.book.contact.dark{
+	background: url(../img/dark/appbar.book.contact.png);
+}
+
+.icon.book.contact.light{
+	background: url(../img/light/appbar.book.contact.png);
+}
+
+
+.icon.book.hardcover.open,
+.icon.book.hardcover.open.dark{
+	background: url(../img/dark/appbar.book.hardcover.open.png);
+}
+
+.icon.book.hardcover.open.light{
+	background: url(../img/light/appbar.book.hardcover.open.png);
+}
+
+
+.icon.book.hardcover.open.writing,
+.icon.book.hardcover.open.writing.dark{
+	background: url(../img/dark/appbar.book.hardcover.open.writing.png);
+}
+
+.icon.book.hardcover.open.writing.light{
+	background: url(../img/light/appbar.book.hardcover.open.writing.png);
+}
+
+
+.icon.book.open.information,
+.icon.book.open.information.dark{
+	background: url(../img/dark/appbar.book.open.information.png);
+}
+
+.icon.book.open.information.light{
+	background: url(../img/light/appbar.book.open.information.png);
+}
+
+
+.icon.book.open,
+.icon.book.open.dark{
+	background: url(../img/dark/appbar.book.open.png);
+}
+
+.icon.book.open.light{
+	background: url(../img/light/appbar.book.open.png);
+}
+
+
+.icon.book.open.text,
+.icon.book.open.text.dark{
+	background: url(../img/dark/appbar.book.open.text.png);
+}
+
+.icon.book.open.text.light{
+	background: url(../img/light/appbar.book.open.text.png);
+}
+
+
+.icon.book.perspective.help,
+.icon.book.perspective.help.dark{
+	background: url(../img/dark/appbar.book.perspective.help.png);
+}
+
+.icon.book.perspective.help.light{
+	background: url(../img/light/appbar.book.perspective.help.png);
+}
+
+
+.icon.book.perspective,
+.icon.book.perspective.dark{
+	background: url(../img/dark/appbar.book.perspective.png);
+}
+
+.icon.book.perspective.light{
+	background: url(../img/light/appbar.book.perspective.png);
+}
+
+
+.icon.book,
+.icon.book.dark{
+	background: url(../img/dark/appbar.book.png);
+}
+
+.icon.book.light{
+	background: url(../img/light/appbar.book.png);
+}
+
+
+.icon.book.side,
+.icon.book.side.dark{
+	background: url(../img/dark/appbar.book.side.png);
+}
+
+.icon.book.side.light{
+	background: url(../img/light/appbar.book.side.png);
+}
+
+
+.icon.border.all,
+.icon.border.all.dark{
+	background: url(../img/dark/appbar.border.all.png);
+}
+
+.icon.border.all.light{
+	background: url(../img/light/appbar.border.all.png);
+}
+
+
+.icon.border.bottom,
+.icon.border.bottom.dark{
+	background: url(../img/dark/appbar.border.bottom.png);
+}
+
+.icon.border.bottom.light{
+	background: url(../img/light/appbar.border.bottom.png);
+}
+
+
+.icon.border.horizontal,
+.icon.border.horizontal.dark{
+	background: url(../img/dark/appbar.border.horizontal.png);
+}
+
+.icon.border.horizontal.light{
+	background: url(../img/light/appbar.border.horizontal.png);
+}
+
+
+.icon.border.inner,
+.icon.border.inner.dark{
+	background: url(../img/dark/appbar.border.inner.png);
+}
+
+.icon.border.inner.light{
+	background: url(../img/light/appbar.border.inner.png);
+}
+
+
+.icon.border.left,
+.icon.border.left.dark{
+	background: url(../img/dark/appbar.border.left.png);
+}
+
+.icon.border.left.light{
+	background: url(../img/light/appbar.border.left.png);
+}
+
+
+.icon.border.none,
+.icon.border.none.dark{
+	background: url(../img/dark/appbar.border.none.png);
+}
+
+.icon.border.none.light{
+	background: url(../img/light/appbar.border.none.png);
+}
+
+
+.icon.border.outside,
+.icon.border.outside.dark{
+	background: url(../img/dark/appbar.border.outside.png);
+}
+
+.icon.border.outside.light{
+	background: url(../img/light/appbar.border.outside.png);
+}
+
+
+.icon.border.right,
+.icon.border.right.dark{
+	background: url(../img/dark/appbar.border.right.png);
+}
+
+.icon.border.right.light{
+	background: url(../img/light/appbar.border.right.png);
+}
+
+
+.icon.border.top,
+.icon.border.top.dark{
+	background: url(../img/dark/appbar.border.top.png);
+}
+
+.icon.border.top.light{
+	background: url(../img/light/appbar.border.top.png);
+}
+
+
+.icon.border.vertical,
+.icon.border.vertical.dark{
+	background: url(../img/dark/appbar.border.vertical.png);
+}
+
+.icon.border.vertical.light{
+	background: url(../img/light/appbar.border.vertical.png);
+}
+
+
+.icon.box.layered,
+.icon.box.layered.dark{
+	background: url(../img/dark/appbar.box.layered.png);
+}
+
+.icon.box.layered.light{
+	background: url(../img/light/appbar.box.layered.png);
+}
+
+
+.icon.box,
+.icon.box.dark{
+	background: url(../img/dark/appbar.box.png);
+}
+
+.icon.box.light{
+	background: url(../img/light/appbar.box.png);
+}
+
+
+.icon.box.unfolded,
+.icon.box.unfolded.dark{
+	background: url(../img/dark/appbar.box.unfolded.png);
+}
+
+.icon.box.unfolded.light{
+	background: url(../img/light/appbar.box.unfolded.png);
+}
+
+
+.icon.browser.chrome,
+.icon.browser.chrome.dark{
+	background: url(../img/dark/appbar.browser.chrome.png);
+}
+
+.icon.browser.chrome.light{
+	background: url(../img/light/appbar.browser.chrome.png);
+}
+
+
+.icon.browser.ie,
+.icon.browser.ie.dark{
+	background: url(../img/dark/appbar.browser.ie.png);
+}
+
+.icon.browser.ie.light{
+	background: url(../img/light/appbar.browser.ie.png);
+}
+
+
+.icon.browser,
+.icon.browser.dark{
+	background: url(../img/dark/appbar.browser.png);
+}
+
+.icon.browser.light{
+	background: url(../img/light/appbar.browser.png);
+}
+
+
+.icon.browser.wire,
+.icon.browser.wire.dark{
+	background: url(../img/dark/appbar.browser.wire.png);
+}
+
+.icon.browser.wire.light{
+	background: url(../img/light/appbar.browser.wire.png);
+}
+
+
+/* ----- continue from here -----*/
+
+.icon.bug,
+.icon.bug.dark{
+	background: url(../img/dark/appbar.bug.png);
+}
+
+.icon.bug.light{
+	background: url(../img/light/appbar.bug.png);
+}
+
+
+.icon.bug.remove,
+.icon.bug.remove.dark{
+	background: url(../img/dark/appbar.bug.remove.png);
+}
+
+.icon.bug.remove.light{
+	background: url(../img/light/appbar.bug.remove.png);
+}
+
+
+.icon.cabinet.files,
+.icon.cabinet.files.dark{
+	background: url(../img/dark/appbar.cabinet.files.png);
+}
+
+.icon.cabinet.files.light{
+	background: url(../img/light/appbar.cabinet.files.png);
+}
+
+
+.icon.cabinet.files.variant,
+.icon.cabinet.files.variant.dark{
+	background: url(../img/dark/appbar.cabinet.files.variant.png);
+}
+
+.icon.cabinet.files.variant.light{
+	background: url(../img/light/appbar.cabinet.files.variant.png);
+}
+
+
+.icon.cabinet.in,
+.icon.cabinet.in.dark{
+	background: url(../img/dark/appbar.cabinet.in.png);
+}
+
+.icon.cabinet.in.light{
+	background: url(../img/light/appbar.cabinet.in.png);
+}
+
+
+.icon.cabinet.out,
+.icon.cabinet.out.dark{
+	background: url(../img/dark/appbar.cabinet.out.png);
+}
+
+.icon.cabinet.out.light{
+	background: url(../img/light/appbar.cabinet.out.png);
+}
+
+
+.icon.cabinet,
+.icon.cabinet.dark{
+	background: url(../img/dark/appbar.cabinet.png);
+}
+
+.icon.cabinet.light{
+	background: url(../img/light/appbar.cabinet.png);
+}
+
+
+.icon.cabinet.variant,
+.icon.cabinet.variant.dark{
+	background: url(../img/dark/appbar.cabinet.variant.png);
+}
+
+.icon.cabinet.variant.light{
+	background: url(../img/light/appbar.cabinet.variant.png);
+}
+
+
+.icon.calculator,
+.icon.calculator.dark{
+	background: url(../img/dark/appbar.calculator.png);
+}
+
+.icon.calculator.light{
+	background: url(../img/light/appbar.calculator.png);
+}
+
+
+.icon.calendar.14,
+.icon.calendar.14.dark{
+	background: url(../img/dark/appbar.calendar.14.png);
+}
+
+.icon.calendar.14.light{
+	background: url(../img/light/appbar.calendar.14.png);
+}
+
+
+.icon.calendar.31,
+.icon.calendar.31.dark{
+	background: url(../img/dark/appbar.calendar.31.png);
+}
+
+.icon.calendar.31.light{
+	background: url(../img/light/appbar.calendar.31.png);
+}
+
+
+.icon.calendar.day,
+.icon.calendar.day.dark{
+	background: url(../img/dark/appbar.calendar.day.png);
+}
+
+.icon.calendar.day.light{
+	background: url(../img/light/appbar.calendar.day.png);
+}
+
+
+.icon.calendar.dollar,
+.icon.calendar.dollar.dark{
+	background: url(../img/dark/appbar.calendar.dollar.png);
+}
+
+.icon.calendar.dollar.light{
+	background: url(../img/light/appbar.calendar.dollar.png);
+}
+
+
+.icon.calendar.month,
+.icon.calendar.month.dark{
+	background: url(../img/dark/appbar.calendar.month.png);
+}
+
+.icon.calendar.month.light{
+	background: url(../img/light/appbar.calendar.month.png);
+}
+
+
+.icon.calendar,
+.icon.calendar.dark{
+	background: url(../img/dark/appbar.calendar.png);
+}
+
+.icon.calendar.light{
+	background: url(../img/light/appbar.calendar.png);
+}
+
+
+.icon.calendar.range,
+.icon.calendar.range.dark{
+	background: url(../img/dark/appbar.calendar.range.png);
+}
+
+.icon.calendar.range.light{
+	background: url(../img/light/appbar.calendar.range.png);
+}
+
+
+.icon.calendar.week,
+.icon.calendar.week.dark{
+	background: url(../img/dark/appbar.calendar.week.png);
+}
+
+.icon.calendar.week.light{
+	background: url(../img/light/appbar.calendar.week.png);
+}
+
+
+.icon.calendar.year,
+.icon.calendar.year.dark{
+	background: url(../img/dark/appbar.calendar.year.png);
+}
+
+.icon.calendar.year.light{
+	background: url(../img/light/appbar.calendar.year.png);
+}
+
+
+.icon.camera.flash.auto,
+.icon.camera.flash.auto.dark{
+	background: url(../img/dark/appbar.camera.flash.auto.png);
+}
+
+.icon.camera.flash.auto.light{
+	background: url(../img/light/appbar.camera.flash.auto.png);
+}
+
+
+.icon.camera.flash.auto.selected,
+.icon.camera.flash.auto.selected.dark{
+	background: url(../img/dark/appbar.camera.flash.auto.selected.png);
+}
+
+.icon.camera.flash.auto.selected.light{
+	background: url(../img/light/appbar.camera.flash.auto.selected.png);
+}
+
+
+.icon.camera.flash.off,
+.icon.camera.flash.off.dark{
+	background: url(../img/dark/appbar.camera.flash.off.png);
+}
+
+.icon.camera.flash.off.light{
+	background: url(../img/light/appbar.camera.flash.off.png);
+}
+
+
+.icon.camera.flash.off.selected,
+.icon.camera.flash.off.selected.dark{
+	background: url(../img/dark/appbar.camera.flash.off.selected.png);
+}
+
+.icon.camera.flash.off.selected.light{
+	background: url(../img/light/appbar.camera.flash.off.selected.png);
+}
+
+
+.icon.camera.flash,
+.icon.camera.flash.dark{
+	background: url(../img/dark/appbar.camera.flash.png);
+}
+
+.icon.camera.flash.light{
+	background: url(../img/light/appbar.camera.flash.png);
+}
+
+
+.icon.camera.flash.selected,
+.icon.camera.flash.selected.dark{
+	background: url(../img/dark/appbar.camera.flash.selected.png);
+}
+
+.icon.camera.flash.selected.light{
+	background: url(../img/light/appbar.camera.flash.selected.png);
+}
+
+
+.icon.camera,
+.icon.camera.dark{
+	background: url(../img/dark/appbar.camera.png);
+}
+
+.icon.camera.light{
+	background: url(../img/light/appbar.camera.png);
+}
+
+
+.icon.camera.send,
+.icon.camera.send.dark{
+	background: url(../img/dark/appbar.camera.send.png);
+}
+
+.icon.camera.send.light{
+	background: url(../img/light/appbar.camera.send.png);
+}
+
+
+.icon.camera.switch.invert,
+.icon.camera.switch.invert.dark{
+	background: url(../img/dark/appbar.camera.switch.invert.png);
+}
+
+.icon.camera.switch.invert.light{
+	background: url(../img/light/appbar.camera.switch.invert.png);
+}
+
+
+.icon.camera.switch,
+.icon.camera.switch.dark{
+	background: url(../img/dark/appbar.camera.switch.png);
+}
+
+.icon.camera.switch.light{
+	background: url(../img/light/appbar.camera.switch.png);
+}
+
+
+.icon.cancel,
+.icon.cancel.dark{
+	background: url(../img/dark/appbar.cancel.png);
+}
+
+.icon.cancel.light{
+	background: url(../img/light/appbar.cancel.png);
+}
+
+
+.icon.candy.cane,
+.icon.candy.cane.dark{
+	background: url(../img/dark/appbar.candy.cane.png);
+}
+
+.icon.candy.cane.light{
+	background: url(../img/light/appbar.candy.cane.png);
+}
+
+
+.icon.card.1,
+.icon.card.1.dark{
+	background: url(../img/dark/appbar.card.1.png);
+}
+
+.icon.card.1.light{
+	background: url(../img/light/appbar.card.1.png);
+}
+
+
+.icon.card.2,
+.icon.card.2.dark{
+	background: url(../img/dark/appbar.card.2.png);
+}
+
+.icon.card.2.light{
+	background: url(../img/light/appbar.card.2.png);
+}
+
+
+.icon.card.3,
+.icon.card.3.dark{
+	background: url(../img/dark/appbar.card.3.png);
+}
+
+.icon.card.3.light{
+	background: url(../img/light/appbar.card.3.png);
+}
+
+
+.icon.card.4,
+.icon.card.4.dark{
+	background: url(../img/dark/appbar.card.4.png);
+}
+
+.icon.card.4.light{
+	background: url(../img/light/appbar.card.4.png);
+}
+
+
+.icon.card.5,
+.icon.card.5.dark{
+	background: url(../img/dark/appbar.card.5.png);
+}
+
+.icon.card.5.light{
+	background: url(../img/light/appbar.card.5.png);
+}
+
+
+.icon.card.6,
+.icon.card.6.dark{
+	background: url(../img/dark/appbar.card.6.png);
+}
+
+.icon.card.6.light{
+	background: url(../img/light/appbar.card.6.png);
+}
+
+
+.icon.card.7,
+.icon.card.7.dark{
+	background: url(../img/dark/appbar.card.7.png);
+}
+
+.icon.card.7.light{
+	background: url(../img/light/appbar.card.7.png);
+}
+
+
+.icon.card.8,
+.icon.card.8.dark{
+	background: url(../img/dark/appbar.card.8.png);
+}
+
+.icon.card.8.light{
+	background: url(../img/light/appbar.card.8.png);
+}
+
+
+.icon.card.9,
+.icon.card.9.dark{
+	background: url(../img/dark/appbar.card.9.png);
+}
+
+.icon.card.9.light{
+	background: url(../img/light/appbar.card.9.png);
+}
+
+
+.icon.card,
+.icon.card.dark{
+	background: url(../img/dark/appbar.card.png);
+}
+
+.icon.card.light{
+	background: url(../img/light/appbar.card.png);
+}
+
+
+.icon.cards.club,
+.icon.cards.club.dark{
+	background: url(../img/dark/appbar.cards.club.png);
+}
+
+.icon.cards.club.light{
+	background: url(../img/light/appbar.cards.club.png);
+}
+
+
+.icon.cards.diamond,
+.icon.cards.diamond.dark{
+	background: url(../img/dark/appbar.cards.diamond.png);
+}
+
+.icon.cards.diamond.light{
+	background: url(../img/light/appbar.cards.diamond.png);
+}
+
+
+.icon.cards.heart,
+.icon.cards.heart.dark{
+	background: url(../img/dark/appbar.cards.heart.png);
+}
+
+.icon.cards.heart.light{
+	background: url(../img/light/appbar.cards.heart.png);
+}
+
+
+
+
+
+.icon.cards.spade,
+.icon.cards.spade.dark{
+	background: url(../img/dark/appbar.cards.spade.png);
+}
+
+.icon.cards.spade.light{
+	background: url(../img/light/appbar.cards.spade.png);
+}
+
+.icon.cart,
+.icon.cart.dark{
+	background: url(../img/dark/appbar.cart.png);
+}
+
+.icon.cart.light{
+	background: url(../img/light/appbar.cart.png);
+}
+
+.icon.cd.eject,
+.icon.cd.eject.dark{
+	background: url(../img/dark/appbar.cd.eject.png);
+}
+
+.icon.cd.eject.light{
+	background: url(../img/light/appbar.cd.eject.png);
+}
+
+.icon.cd,
+.icon.cd.dark{
+	background: url(../img/dark/appbar.cd.png);
+}
+
+.icon.cd.light{
+	background: url(../img/light/appbar.cd.png);
+}
+
+.icon.cell.align,
+.icon.cell.align.dark{
+	background: url(../img/dark/appbar.cell.align.png);
+}
+
+.icon.cell.align.light{
+	background: url(../img/light/appbar.cell.align.png);
+}
+
+.icon.cell.column.delete,
+.icon.cell.column.delete.dark{
+	background: url(../img/dark/appbar.cell.column.delete.png);
+}
+
+.icon.cell.column.delete.light{
+	background: url(../img/light/appbar.cell.column.delete.png);
+}
+
+.icon.cell.down,
+.icon.cell.down.dark{
+	background: url(../img/dark/appbar.cell.down.png);
+}
+
+.icon.cell.down.light{
+	background: url(../img/light/appbar.cell.down.png);
+}
+
+.icon.cell.function,
+.icon.cell.function.dark{
+	background: url(../img/dark/appbar.cell.function.png);
+}
+
+.icon.cell.function.light{
+	background: url(../img/light/appbar.cell.function.png);
+}
+
+.icon.cell.insert.above,
+.icon.cell.insert.above.dark{
+	background: url(../img/dark/appbar.cell.insert.above.png);
+}
+
+.icon.cell.insert.above.light{
+	background: url(../img/light/appbar.cell.insert.above.png);
+}
+
+.icon.cell.insert.below,
+.icon.cell.insert.below.dark{
+	background: url(../img/dark/appbar.cell.insert.below.png);
+}
+
+.icon.cell.insert.below.light{
+	background: url(../img/light/appbar.cell.insert.below.png);
+}
+
+.icon.cell.merge,
+.icon.cell.merge.dark{
+	background: url(../img/dark/appbar.cell.merge.png);
+}
+
+.icon.cell.merge.light{
+	background: url(../img/light/appbar.cell.merge.png);
+}
+
+.icon.cell.row.delete,
+.icon.cell.row.delete.dark{
+	background: url(../img/dark/appbar.cell.row.delete.png);
+}
+
+.icon.cell.row.delete.light{
+	background: url(../img/light/appbar.cell.row.delete.png);
+}
+
+.icon.cell.up,
+.icon.cell.up.dark{
+	background: url(../img/dark/appbar.cell.up.png);
+}
+
+.icon.cell.up.light{
+	background: url(../img/light/appbar.cell.up.png);
+}
+
+.icon.chat,
+.icon.chat.dark{
+	background: url(../img/dark/appbar.chat.png);
+}
+
+.icon.chat.light{
+	background: url(../img/light/appbar.chat.png);
+}
+
+.icon.check,
+.icon.check.dark{
+	background: url(../img/dark/appbar.check.png);
+}
+
+.icon.check.light{
+	background: url(../img/light/appbar.check.png);
+}
+
+.icon.checkmark.cross,
+.icon.checkmark.cross.dark{
+	background: url(../img/dark/appbar.checkmark.cross.png);
+}
+
+.icon.checkmark.cross.light{
+	background: url(../img/light/appbar.checkmark.cross.png);
+}
+
+.icon.checkmark.pencil,
+.icon.checkmark.pencil.dark{
+	background: url(../img/dark/appbar.checkmark.pencil.png);
+}
+
+.icon.checkmark.pencil.light{
+	background: url(../img/light/appbar.checkmark.pencil.png);
+}
+
+.icon.checkmark.pencil.top,
+.icon.checkmark.pencil.top.dark{
+	background: url(../img/dark/appbar.checkmark.pencil.top.png);
+}
+
+.icon.checkmark.pencil.top.light{
+	background: url(../img/light/appbar.checkmark.pencil.top.png);
+}
+
+.icon.checkmark,
+.icon.checkmark.dark{
+	background: url(../img/dark/appbar.checkmark.png);
+}
+
+.icon.checkmark.light{
+	background: url(../img/light/appbar.checkmark.png);
+}
+
+.icon.checkmark.thick,
+.icon.checkmark.thick.dark{
+	background: url(../img/dark/appbar.checkmark.thick.png);
+}
+
+.icon.checkmark.thick.light{
+	background: url(../img/light/appbar.checkmark.thick.png);
+}
+
+.icon.checkmark.thick.unchecked,
+.icon.checkmark.thick.unchecked.dark{
+	background: url(../img/dark/appbar.checkmark.thick.unchecked.png);
+}
+
+.icon.checkmark.thick.unchecked.light{
+	background: url(../img/light/appbar.checkmark.thick.unchecked.png);
+}
+
+.icon.checkmark.uncrossed,
+.icon.checkmark.uncrossed.dark{
+	background: url(../img/dark/appbar.checkmark.uncrossed.png);
+}
+
+.icon.checkmark.uncrossed.light{
+	background: url(../img/light/appbar.checkmark.uncrossed.png);
+}
+
+.icon.chess.bishop,
+.icon.chess.bishop.dark{
+	background: url(../img/dark/appbar.chess.bishop.png);
+}
+
+.icon.chess.bishop.light{
+	background: url(../img/light/appbar.chess.bishop.png);
+}
+
+.icon.chess.horse,
+.icon.chess.horse.dark{
+	background: url(../img/dark/appbar.chess.horse.png);
+}
+
+.icon.chess.horse.light{
+	background: url(../img/light/appbar.chess.horse.png);
+}
+
+.icon.chess.king,
+.icon.chess.king.dark{
+	background: url(../img/dark/appbar.chess.king.png);
+}
+
+.icon.chess.king.light{
+	background: url(../img/light/appbar.chess.king.png);
+}
+
+.icon.chess.pawn,
+.icon.chess.pawn.dark{
+	background: url(../img/dark/appbar.chess.pawn.png);
+}
+
+.icon.chess.pawn.light{
+	background: url(../img/light/appbar.chess.pawn.png);
+}
+
+.icon.chess.queen,
+.icon.chess.queen.dark{
+	background: url(../img/dark/appbar.chess.queen.png);
+}
+
+.icon.chess.queen.light{
+	background: url(../img/light/appbar.chess.queen.png);
+}
+
+.icon.chess.rook,
+.icon.chess.rook.dark{
+	background: url(../img/dark/appbar.chess.rook.png);
+}
+
+.icon.chess.rook.light{
+	background: url(../img/light/appbar.chess.rook.png);
+}
+
+.icon.chevron.down,
+.icon.chevron.down.dark{
+	background: url(../img/dark/appbar.chevron.down.png);
+}
+
+.icon.chevron.down.light{
+	background: url(../img/light/appbar.chevron.down.png);
+}
+
+.icon.chevron.left,
+.icon.chevron.left.dark{
+	background: url(../img/dark/appbar.chevron.left.png);
+}
+
+.icon.chevron.left.light{
+	background: url(../img/light/appbar.chevron.left.png);
+}
+
+.icon.chevron.right,
+.icon.chevron.right.dark{
+	background: url(../img/dark/appbar.chevron.right.png);
+}
+
+.icon.chevron.right.light{
+	background: url(../img/light/appbar.chevron.right.png);
+}
+
+.icon.chevron.up,
+.icon.chevron.up.dark{
+	background: url(../img/dark/appbar.chevron.up.png);
+}
+
+.icon.chevron.up.light{
+	background: url(../img/light/appbar.chevron.up.png);
+}
+
+.icon.chromakey,
+.icon.chromakey.dark{
+	background: url(../img/dark/appbar.chromakey.png);
+}
+
+.icon.chromakey.light{
+	background: url(../img/light/appbar.chromakey.png);
+}
+
+.icon.church,
+.icon.church.dark{
+	background: url(../img/dark/appbar.church.png);
+}
+
+.icon.church.light{
+	background: url(../img/light/appbar.church.png);
+}
+
+.icon.city.chicago,
+.icon.city.chicago.dark{
+	background: url(../img/dark/appbar.city.chicago.png);
+}
+
+.icon.city.chicago.light{
+	background: url(../img/light/appbar.city.chicago.png);
+}
+
+.icon.city,
+.icon.city.dark{
+	background: url(../img/dark/appbar.city.png);
+}
+
+.icon.city.light{
+	background: url(../img/light/appbar.city.png);
+}
+
+.icon.city.sanfrancisco,
+.icon.city.sanfrancisco.dark{
+	background: url(../img/dark/appbar.city.sanfrancisco.png);
+}
+
+.icon.city.sanfrancisco.light{
+	background: url(../img/light/appbar.city.sanfrancisco.png);
+}
+
+.icon.city.seattle,
+.icon.city.seattle.dark{
+	background: url(../img/dark/appbar.city.seattle.png);
+}
+
+.icon.city.seattle.light{
+	background: url(../img/light/appbar.city.seattle.png);
+}
+
+.icon.clean,
+.icon.clean.dark{
+	background: url(../img/dark/appbar.clean.png);
+}
+
+.icon.clean.light{
+	background: url(../img/light/appbar.clean.png);
+}
+
+.icon.clear.inverse,
+.icon.clear.inverse.dark{
+	background: url(../img/dark/appbar.clear.inverse.png);
+}
+
+.icon.clear.inverse.light{
+	background: url(../img/light/appbar.clear.inverse.png);
+}
+
+.icon.clear.inverse.reflect.horizontal,
+.icon.clear.inverse.reflect.horizontal.dark{
+	background: url(../img/dark/appbar.clear.inverse.reflect.horizontal.png);
+}
+
+.icon.clear.inverse.reflect.horizontal.light{
+	background: url(../img/light/appbar.clear.inverse.reflect.horizontal.png);
+}
+
+.icon.clear,
+.icon.clear.dark{
+	background: url(../img/dark/appbar.clear.png);
+}
+
+.icon.clear.light{
+	background: url(../img/light/appbar.clear.png);
+}
+
+.icon.clear.reflect.horizontal,
+.icon.clear.reflect.horizontal.dark{
+	background: url(../img/dark/appbar.clear.reflect.horizontal.png);
+}
+
+.icon.clear.reflect.horizontal.light{
+	background: url(../img/light/appbar.clear.reflect.horizontal.png);
+}
+
+.icon.clipboard.paper.check,
+.icon.clipboard.paper.check.dark{
+	background: url(../img/dark/appbar.clipboard.paper.check.png);
+}
+
+.icon.clipboard.paper.check.light{
+	background: url(../img/light/appbar.clipboard.paper.check.png);
+}
+
+.icon.clipboard.paper,
+.icon.clipboard.paper.dark{
+	background: url(../img/dark/appbar.clipboard.paper.png);
+}
+
+.icon.clipboard.paper.light{
+	background: url(../img/light/appbar.clipboard.paper.png);
+}
+
+.icon.clipboard.paste,
+.icon.clipboard.paste.dark{
+	background: url(../img/dark/appbar.clipboard.paste.png);
+}
+
+.icon.clipboard.paste.light{
+	background: url(../img/light/appbar.clipboard.paste.png);
+}
+
+.icon.clipboard,
+.icon.clipboard.dark{
+	background: url(../img/dark/appbar.clipboard.png);
+}
+
+.icon.clipboard.light{
+	background: url(../img/light/appbar.clipboard.png);
+}
+
+.icon.clipboard.variant.edit,
+.icon.clipboard.variant.edit.dark{
+	background: url(../img/dark/appbar.clipboard.variant.edit.png);
+}
+
+.icon.clipboard.variant.edit.light{
+	background: url(../img/light/appbar.clipboard.variant.edit.png);
+}
+
+.icon.clipboard.variant,
+.icon.clipboard.variant.dark{
+	background: url(../img/dark/appbar.clipboard.variant.png);
+}
+
+.icon.clipboard.variant.light{
+	background: url(../img/light/appbar.clipboard.variant.png);
+}
+
+.icon.clipboard.variant.text,
+.icon.clipboard.variant.text.dark{
+	background: url(../img/dark/appbar.clipboard.variant.text.png);
+}
+
+.icon.clipboard.variant.text.light{
+	background: url(../img/light/appbar.clipboard.variant.text.png);
+}
+
+.icon.clock,
+.icon.clock.dark{
+	background: url(../img/dark/appbar.clock.png);
+}
+
+.icon.clock.light{
+	background: url(../img/light/appbar.clock.png);
+}
+
+
+
+
+.icon.close,
+.icon.close.dark{
+	background: url(../img/dark/appbar.close.png);
+}
+
+.icon.close.light{
+	background: url(../img/light/appbar.close.png);
+}
+
+.icon.closedcaption.off,
+.icon.closedcaption.off.dark{
+	background: url(../img/dark/appbar.closedcaption.off.png);
+}
+
+.icon.closedcaption.off.light{
+	background: url(../img/light/appbar.closedcaption.off.png);
+}
+
+.icon.closedcaption,
+.icon.closedcaption.dark{
+	background: url(../img/dark/appbar.closedcaption.png);
+}
+
+.icon.closedcaption.light{
+	background: url(../img/light/appbar.closedcaption.png);
+}
+
+.icon.clothes.shirt,
+.icon.clothes.shirt.dark{
+	background: url(../img/dark/appbar.clothes.shirt.png);
+}
+
+.icon.clothes.shirt.light{
+	background: url(../img/light/appbar.clothes.shirt.png);
+}
+
+.icon.clothes.tie,
+.icon.clothes.tie.dark{
+	background: url(../img/dark/appbar.clothes.tie.png);
+}
+
+.icon.clothes.tie.light{
+	background: url(../img/light/appbar.clothes.tie.png);
+}
+
+.icon.cloud.add,
+.icon.cloud.add.dark{
+	background: url(../img/dark/appbar.cloud.add.png);
+}
+
+.icon.cloud.add.light{
+	background: url(../img/light/appbar.cloud.add.png);
+}
+
+.icon.cloud.delete,
+.icon.cloud.delete.dark{
+	background: url(../img/dark/appbar.cloud.delete.png);
+}
+
+.icon.cloud.delete.light{
+	background: url(../img/light/appbar.cloud.delete.png);
+}
+
+.icon.cloud.download,
+.icon.cloud.download.dark{
+	background: url(../img/dark/appbar.cloud.download.png);
+}
+
+.icon.cloud.download.light{
+	background: url(../img/light/appbar.cloud.download.png);
+}
+
+.icon.cloud.pause,
+.icon.cloud.pause.dark{
+	background: url(../img/dark/appbar.cloud.pause.png);
+}
+
+.icon.cloud.pause.light{
+	background: url(../img/light/appbar.cloud.pause.png);
+}
+
+.icon.cloud.play,
+.icon.cloud.play.dark{
+	background: url(../img/dark/appbar.cloud.play.png);
+}
+
+.icon.cloud.play.light{
+	background: url(../img/light/appbar.cloud.play.png);
+}
+
+.icon.cloud,
+.icon.cloud.dark{
+	background: url(../img/dark/appbar.cloud.png);
+}
+
+.icon.cloud.light{
+	background: url(../img/light/appbar.cloud.png);
+}
+
+.icon.cloud.upload,
+.icon.cloud.upload.dark{
+	background: url(../img/dark/appbar.cloud.upload.png);
+}
+
+.icon.cloud.upload.light{
+	background: url(../img/light/appbar.cloud.upload.png);
+}
+
+.icon.cloudirc,
+.icon.cloudirc.dark{
+	background: url(../img/dark/appbar.cloudirc.png);
+}
+
+.icon.cloudirc.light{
+	background: url(../img/light/appbar.cloudirc.png);
+}
+
+.icon.cog,
+.icon.cog.dark{
+	background: url(../img/dark/appbar.cog.png);
+}
+
+.icon.cog.light{
+	background: url(../img/light/appbar.cog.png);
+}
+
+.icon.cogs,
+.icon.cogs.dark{
+	background: url(../img/dark/appbar.cogs.png);
+}
+
+.icon.cogs.light{
+	background: url(../img/light/appbar.cogs.png);
+}
+
+.icon.column.one,
+.icon.column.one.dark{
+	background: url(../img/dark/appbar.column.one.png);
+}
+
+.icon.column.one.light{
+	background: url(../img/light/appbar.column.one.png);
+}
+
+.icon.column.three,
+.icon.column.three.dark{
+	background: url(../img/dark/appbar.column.three.png);
+}
+
+.icon.column.three.light{
+	background: url(../img/light/appbar.column.three.png);
+}
+
+.icon.column.two,
+.icon.column.two.dark{
+	background: url(../img/dark/appbar.column.two.png);
+}
+
+.icon.column.two.light{
+	background: url(../img/light/appbar.column.two.png);
+}
+
+.icon.companioncube,
+.icon.companioncube.dark{
+	background: url(../img/dark/appbar.companioncube.png);
+}
+
+.icon.companioncube.light{
+	background: url(../img/light/appbar.companioncube.png);
+}
+
+.icon.cone.diagonal,
+.icon.cone.diagonal.dark{
+	background: url(../img/dark/appbar.cone.diagonal.png);
+}
+
+.icon.cone.diagonal.light{
+	background: url(../img/light/appbar.cone.diagonal.png);
+}
+
+.icon.cone,
+.icon.cone.dark{
+	background: url(../img/dark/appbar.cone.png);
+}
+
+.icon.cone.light{
+	background: url(../img/light/appbar.cone.png);
+}
+
+.icon.confirm.yes.no,
+.icon.confirm.yes.no.dark{
+	background: url(../img/dark/appbar.confirm.yes.no.png);
+}
+
+.icon.confirm.yes.no.light{
+	background: url(../img/light/appbar.confirm.yes.no.png);
+}
+
+.icon.connect,
+.icon.connect.dark{
+	background: url(../img/dark/appbar.connect.png);
+}
+
+.icon.connect.light{
+	background: url(../img/light/appbar.connect.png);
+}
+
+.icon.connection.1x,
+.icon.connection.1x.dark{
+	background: url(../img/dark/appbar.connection.1x.png);
+}
+
+.icon.connection.1x.light{
+	background: url(../img/light/appbar.connection.1x.png);
+}
+
+.icon.connection.3g,
+.icon.connection.3g.dark{
+	background: url(../img/dark/appbar.connection.3g.png);
+}
+
+.icon.connection.3g.light{
+	background: url(../img/light/appbar.connection.3g.png);
+}
+
+.icon.connection.4g,
+.icon.connection.4g.dark{
+	background: url(../img/dark/appbar.connection.4g.png);
+}
+
+.icon.connection.4g.light{
+	background: url(../img/light/appbar.connection.4g.png);
+}
+
+.icon.connection.bluetooth,
+.icon.connection.bluetooth.dark{
+	background: url(../img/dark/appbar.connection.bluetooth.png);
+}
+
+.icon.connection.bluetooth.light{
+	background: url(../img/light/appbar.connection.bluetooth.png);
+}
+
+.icon.connection.ev,
+.icon.connection.ev.dark{
+	background: url(../img/dark/appbar.connection.ev.png);
+}
+
+.icon.connection.ev.light{
+	background: url(../img/light/appbar.connection.ev.png);
+}
+
+.icon.connection.quality.extremelylow,
+.icon.connection.quality.extremelylow.dark{
+	background: url(../img/dark/appbar.connection.quality.extremelylow.png);
+}
+
+.icon.connection.quality.extremelylow.light{
+	background: url(../img/light/appbar.connection.quality.extremelylow.png);
+}
+
+.icon.connection.quality.high,
+.icon.connection.quality.high.dark{
+	background: url(../img/dark/appbar.connection.quality.high.png);
+}
+
+.icon.connection.quality.high.light{
+	background: url(../img/light/appbar.connection.quality.high.png);
+}
+
+.icon.connection.quality.low,
+.icon.connection.quality.low.dark{
+	background: url(../img/dark/appbar.connection.quality.low.png);
+}
+
+.icon.connection.quality.low.light{
+	background: url(../img/light/appbar.connection.quality.low.png);
+}
+
+.icon.connection.quality.medium,
+.icon.connection.quality.medium.dark{
+	background: url(../img/dark/appbar.connection.quality.medium.png);
+}
+
+.icon.connection.quality.medium.light{
+	background: url(../img/light/appbar.connection.quality.medium.png);
+}
+
+.icon.connection.quality.veryhigh,
+.icon.connection.quality.veryhigh.dark{
+	background: url(../img/dark/appbar.connection.quality.veryhigh.png);
+}
+
+.icon.connection.quality.veryhigh.light{
+	background: url(../img/light/appbar.connection.quality.veryhigh.png);
+}
+
+.icon.connection.quality.verylow,
+.icon.connection.quality.verylow.dark{
+	background: url(../img/dark/appbar.connection.quality.verylow.png);
+}
+
+.icon.connection.quality.verylow.light{
+	background: url(../img/light/appbar.connection.quality.verylow.png);
+}
+
+.icon.connection.wifi,
+.icon.connection.wifi.dark{
+	background: url(../img/dark/appbar.connection.wifi.png);
+}
+
+.icon.connection.wifi.light{
+	background: url(../img/light/appbar.connection.wifi.png);
+}
+
+.icon.console,
+.icon.console.dark{
+	background: url(../img/dark/appbar.console.png);
+}
+
+.icon.console.light{
+	background: url(../img/light/appbar.console.png);
+}
+
+.icon.contrast,
+.icon.contrast.dark{
+	background: url(../img/dark/appbar.contrast.png);
+}
+
+.icon.contrast.light{
+	background: url(../img/light/appbar.contrast.png);
+}
+
+.icon.control.eject,
+.icon.control.eject.dark{
+	background: url(../img/dark/appbar.control.eject.png);
+}
+
+.icon.control.eject.light{
+	background: url(../img/light/appbar.control.eject.png);
+}
+
+.icon.control.fastforward,
+.icon.control.fastforward.dark{
+	background: url(../img/dark/appbar.control.fastforward.png);
+}
+
+.icon.control.fastforward.light{
+	background: url(../img/light/appbar.control.fastforward.png);
+}
+
+.icon.control.guide,
+.icon.control.guide.dark{
+	background: url(../img/dark/appbar.control.guide.png);
+}
+
+.icon.control.guide.light{
+	background: url(../img/light/appbar.control.guide.png);
+}
+
+.icon.control.pause,
+.icon.control.pause.dark{
+	background: url(../img/dark/appbar.control.pause.png);
+}
+
+.icon.control.pause.light{
+	background: url(../img/light/appbar.control.pause.png);
+}
+
+.icon.control.play.live,
+.icon.control.play.live.dark{
+	background: url(../img/dark/appbar.control.play.live.png);
+}
+
+.icon.control.play.live.light{
+	background: url(../img/light/appbar.control.play.live.png);
+}
+
+.icon.control.play,
+.icon.control.play.dark{
+	background: url(../img/dark/appbar.control.play.png);
+}
+
+.icon.control.play.light{
+	background: url(../img/light/appbar.control.play.png);
+}
+
+.icon.control.resume,
+.icon.control.resume.dark{
+	background: url(../img/dark/appbar.control.resume.png);
+}
+
+.icon.control.resume.light{
+	background: url(../img/light/appbar.control.resume.png);
+}
+
+.icon.control.rewind,
+.icon.control.rewind.dark{
+	background: url(../img/dark/appbar.control.rewind.png);
+}
+
+.icon.control.rewind.light{
+	background: url(../img/light/appbar.control.rewind.png);
+}
+
+.icon.control.stop,
+.icon.control.stop.dark{
+	background: url(../img/dark/appbar.control.stop.png);
+}
+
+.icon.control.stop.light{
+	background: url(../img/light/appbar.control.stop.png);
+}
+
+.icon.controller.snes,
+.icon.controller.snes.dark{
+	background: url(../img/dark/appbar.controller.snes.png);
+}
+
+.icon.controller.snes.light{
+	background: url(../img/light/appbar.controller.snes.png);
+}
+
+.icon.controller.xbox,
+.icon.controller.xbox.dark{
+	background: url(../img/dark/appbar.controller.xbox.png);
+}
+
+.icon.controller.xbox.light{
+	background: url(../img/light/appbar.controller.xbox.png);
+}
+
+.icon.copyright,
+.icon.copyright.dark{
+	background: url(../img/dark/appbar.copyright.png);
+}
+
+.icon.copyright.light{
+	background: url(../img/light/appbar.copyright.png);
+}
+
+.icon.corner,
+.icon.corner.dark{
+	background: url(../img/dark/appbar.corner.png);
+}
+
+.icon.corner.light{
+	background: url(../img/light/appbar.corner.png);
+}
+
+.icon.coupon,
+.icon.coupon.dark{
+	background: url(../img/dark/appbar.coupon.png);
+}
+
+.icon.coupon.light{
+	background: url(../img/light/appbar.coupon.png);
+}
+
+.icon.creativecommons,
+.icon.creativecommons.dark{
+	background: url(../img/dark/appbar.creativecommons.png);
+}
+
+.icon.creativecommons.light{
+	background: url(../img/light/appbar.creativecommons.png);
+}
+
+.icon.creditcard,
+.icon.creditcard.dark{
+	background: url(../img/dark/appbar.creditcard.png);
+}
+
+.icon.creditcard.light{
+	background: url(../img/light/appbar.creditcard.png);
+}
+
+.icon.crop,
+.icon.crop.dark{
+	background: url(../img/dark/appbar.crop.png);
+}
+
+.icon.crop.light{
+	background: url(../img/light/appbar.crop.png);
+}
+
+.icon.crosshair,
+.icon.crosshair.dark{
+	background: url(../img/dark/appbar.crosshair.png);
+}
+
+.icon.crosshair.light{
+	background: url(../img/light/appbar.crosshair.png);
+}
+
+.icon.crown,
+.icon.crown.dark{
+	background: url(../img/dark/appbar.crown.png);
+}
+
+.icon.crown.light{
+	background: url(../img/light/appbar.crown.png);
+}
+
+
+
+
+.icon.cup.empty,
+.icon.cup.empty.dark{
+	background: url(../img/dark/appbar.cup.empty.png);
+}
+
+.icon.cup.empty.light{
+	background: url(../img/light/appbar.cup.empty.png);
+}
+
+.icon.cup.full,
+.icon.cup.full.dark{
+	background: url(../img/dark/appbar.cup.full.png);
+}
+
+.icon.cup.full.light{
+	background: url(../img/light/appbar.cup.full.png);
+}
+
+.icon.cup.half,
+.icon.cup.half.dark{
+	background: url(../img/dark/appbar.cup.half.png);
+}
+
+.icon.cup.half.light{
+	background: url(../img/light/appbar.cup.half.png);
+}
+
+.icon.cup.paper,
+.icon.cup.paper.dark{
+	background: url(../img/dark/appbar.cup.paper.png);
+}
+
+.icon.cup.paper.light{
+	background: url(../img/light/appbar.cup.paper.png);
+}
+
+.icon.cup,
+.icon.cup.dark{
+	background: url(../img/dark/appbar.cup.png);
+}
+
+.icon.cup.light{
+	background: url(../img/light/appbar.cup.png);
+}
+
+.icon.cupcake,
+.icon.cupcake.dark{
+	background: url(../img/dark/appbar.cupcake.png);
+}
+
+.icon.cupcake.light{
+	background: url(../img/light/appbar.cupcake.png);
+}
+
+.icon.currency.cent,
+.icon.currency.cent.dark{
+	background: url(../img/dark/appbar.currency.cent.png);
+}
+
+.icon.currency.cent.light{
+	background: url(../img/light/appbar.currency.cent.png);
+}
+
+.icon.currency.dollar.free,
+.icon.currency.dollar.free.dark{
+	background: url(../img/dark/appbar.currency.dollar.free.png);
+}
+
+.icon.currency.dollar.free.light{
+	background: url(../img/light/appbar.currency.dollar.free.png);
+}
+
+.icon.currency.dollar,
+.icon.currency.dollar.dark{
+	background: url(../img/dark/appbar.currency.dollar.png);
+}
+
+.icon.currency.dollar.light{
+	background: url(../img/light/appbar.currency.dollar.png);
+}
+
+.icon.currency.euro,
+.icon.currency.euro.dark{
+	background: url(../img/dark/appbar.currency.euro.png);
+}
+
+.icon.currency.euro.light{
+	background: url(../img/light/appbar.currency.euro.png);
+}
+
+.icon.currency.grivna,
+.icon.currency.grivna.dark{
+	background: url(../img/dark/appbar.currency.grivna.png);
+}
+
+.icon.currency.grivna.light{
+	background: url(../img/light/appbar.currency.grivna.png);
+}
+
+.icon.currency.pound,
+.icon.currency.pound.dark{
+	background: url(../img/dark/appbar.currency.pound.png);
+}
+
+.icon.currency.pound.light{
+	background: url(../img/light/appbar.currency.pound.png);
+}
+
+.icon.currency.rubles,
+.icon.currency.rubles.dark{
+	background: url(../img/dark/appbar.currency.rubles.png);
+}
+
+.icon.currency.rubles.light{
+	background: url(../img/light/appbar.currency.rubles.png);
+}
+
+.icon.currency.rupee,
+.icon.currency.rupee.dark{
+	background: url(../img/dark/appbar.currency.rupee.png);
+}
+
+.icon.currency.rupee.light{
+	background: url(../img/light/appbar.currency.rupee.png);
+}
+
+.icon.currency.yen,
+.icon.currency.yen.dark{
+	background: url(../img/dark/appbar.currency.yen.png);
+}
+
+.icon.currency.yen.light{
+	background: url(../img/light/appbar.currency.yen.png);
+}
+
+.icon.cursor.default.outline,
+.icon.cursor.default.outline.dark{
+	background: url(../img/dark/appbar.cursor.default.outline.png);
+}
+
+.icon.cursor.default.outline.light{
+	background: url(../img/light/appbar.cursor.default.outline.png);
+}
+
+.icon.cursor.default,
+.icon.cursor.default.dark{
+	background: url(../img/dark/appbar.cursor.default.png);
+}
+
+.icon.cursor.default.light{
+	background: url(../img/light/appbar.cursor.default.png);
+}
+
+.icon.cursor.default.transform.horizontal,
+.icon.cursor.default.transform.horizontal.dark{
+	background: url(../img/dark/appbar.cursor.default.transform.horizontal.png);
+}
+
+.icon.cursor.default.transform.horizontal.light{
+	background: url(../img/light/appbar.cursor.default.transform.horizontal.png);
+}
+
+.icon.cursor.hand,
+.icon.cursor.hand.dark{
+	background: url(../img/dark/appbar.cursor.hand.png);
+}
+
+.icon.cursor.hand.light{
+	background: url(../img/light/appbar.cursor.hand.png);
+}
+
+.icon.cursor.move,
+.icon.cursor.move.dark{
+	background: url(../img/dark/appbar.cursor.move.png);
+}
+
+.icon.cursor.move.light{
+	background: url(../img/light/appbar.cursor.move.png);
+}
+
+.icon.cusor.pointer,
+.icon.cusor.pointer.dark{
+	background: url(../img/dark/appbar.cusor.pointer.png);
+}
+
+.icon.cusor.pointer.light{
+	background: url(../img/light/appbar.cusor.pointer.png);
+}
+
+.icon.database,
+.icon.database.dark{
+	background: url(../img/dark/appbar.database.png);
+}
+
+.icon.database.light{
+	background: url(../img/light/appbar.database.png);
+}
+
+.icon.debug.restart,
+.icon.debug.restart.dark{
+	background: url(../img/dark/appbar.debug.restart.png);
+}
+
+.icon.debug.restart.light{
+	background: url(../img/light/appbar.debug.restart.png);
+}
+
+.icon.debug.step.into,
+.icon.debug.step.into.dark{
+	background: url(../img/dark/appbar.debug.step.into.png);
+}
+
+.icon.debug.step.into.light{
+	background: url(../img/light/appbar.debug.step.into.png);
+}
+
+.icon.debug.step.out,
+.icon.debug.step.out.dark{
+	background: url(../img/dark/appbar.debug.step.out.png);
+}
+
+.icon.debug.step.out.light{
+	background: url(../img/light/appbar.debug.step.out.png);
+}
+
+.icon.debug.step.over,
+.icon.debug.step.over.dark{
+	background: url(../img/dark/appbar.debug.step.over.png);
+}
+
+.icon.debug.step.over.light{
+	background: url(../img/light/appbar.debug.step.over.png);
+}
+
+.icon.debug.stop,
+.icon.debug.stop.dark{
+	background: url(../img/dark/appbar.debug.stop.png);
+}
+
+.icon.debug.stop.light{
+	background: url(../img/light/appbar.debug.stop.png);
+}
+
+.icon.deeplink,
+.icon.deeplink.dark{
+	background: url(../img/dark/appbar.deeplink.png);
+}
+
+.icon.deeplink.light{
+	background: url(../img/light/appbar.deeplink.png);
+}
+
+.icon.deeplink.round,
+.icon.deeplink.round.dark{
+	background: url(../img/dark/appbar.deeplink.round.png);
+}
+
+.icon.deeplink.round.light{
+	background: url(../img/light/appbar.deeplink.round.png);
+}
+
+.icon.delete,
+.icon.delete.dark{
+	background: url(../img/dark/appbar.delete.png);
+}
+
+.icon.delete.light{
+	background: url(../img/light/appbar.delete.png);
+}
+
+.icon.devcenter,
+.icon.devcenter.dark{
+	background: url(../img/dark/appbar.devcenter.png);
+}
+
+.icon.devcenter.light{
+	background: url(../img/light/appbar.devcenter.png);
+}
+
+.icon.diagram,
+.icon.diagram.dark{
+	background: url(../img/dark/appbar.diagram.png);
+}
+
+.icon.diagram.light{
+	background: url(../img/light/appbar.diagram.png);
+}
+
+.icon.dial,
+.icon.dial.dark{
+	background: url(../img/dark/appbar.dial.png);
+}
+
+.icon.dial.light{
+	background: url(../img/light/appbar.dial.png);
+}
+
+.icon.dimension.arrow.box.height,
+.icon.dimension.arrow.box.height.dark{
+	background: url(../img/dark/appbar.dimension.arrow.box.height.png);
+}
+
+.icon.dimension.arrow.box.height.light{
+	background: url(../img/light/appbar.dimension.arrow.box.height.png);
+}
+
+.icon.dimension.arrow.box.width,
+.icon.dimension.arrow.box.width.dark{
+	background: url(../img/dark/appbar.dimension.arrow.box.width.png);
+}
+
+.icon.dimension.arrow.box.width.light{
+	background: url(../img/light/appbar.dimension.arrow.box.width.png);
+}
+
+.icon.dimension.arrow.line.height,
+.icon.dimension.arrow.line.height.dark{
+	background: url(../img/dark/appbar.dimension.arrow.line.height.png);
+}
+
+.icon.dimension.arrow.line.height.light{
+	background: url(../img/light/appbar.dimension.arrow.line.height.png);
+}
+
+.icon.dimension.arrow.line.height.short,
+.icon.dimension.arrow.line.height.short.dark{
+	background: url(../img/dark/appbar.dimension.arrow.line.height.short.png);
+}
+
+.icon.dimension.arrow.line.height.short.light{
+	background: url(../img/light/appbar.dimension.arrow.line.height.short.png);
+}
+
+.icon.dimension.arrow.line.height.thick,
+.icon.dimension.arrow.line.height.thick.dark{
+	background: url(../img/dark/appbar.dimension.arrow.line.height.thick.png);
+}
+
+.icon.dimension.arrow.line.height.thick.light{
+	background: url(../img/light/appbar.dimension.arrow.line.height.thick.png);
+}
+
+.icon.dimension.arrow.line.width,
+.icon.dimension.arrow.line.width.dark{
+	background: url(../img/dark/appbar.dimension.arrow.line.width.png);
+}
+
+.icon.dimension.arrow.line.width.light{
+	background: url(../img/light/appbar.dimension.arrow.line.width.png);
+}
+
+.icon.dimension.arrow.line.width.short,
+.icon.dimension.arrow.line.width.short.dark{
+	background: url(../img/dark/appbar.dimension.arrow.line.width.short.png);
+}
+
+.icon.dimension.arrow.line.width.short.light{
+	background: url(../img/light/appbar.dimension.arrow.line.width.short.png);
+}
+
+.icon.dimension.arrow.line.width.thick,
+.icon.dimension.arrow.line.width.thick.dark{
+	background: url(../img/dark/appbar.dimension.arrow.line.width.thick.png);
+}
+
+.icon.dimension.arrow.line.width.thick.light{
+	background: url(../img/light/appbar.dimension.arrow.line.width.thick.png);
+}
+
+.icon.dimension.box.height,
+.icon.dimension.box.height.dark{
+	background: url(../img/dark/appbar.dimension.box.height.png);
+}
+
+.icon.dimension.box.height.light{
+	background: url(../img/light/appbar.dimension.box.height.png);
+}
+
+.icon.dimension.box.width,
+.icon.dimension.box.width.dark{
+	background: url(../img/dark/appbar.dimension.box.width.png);
+}
+
+.icon.dimension.box.width.light{
+	background: url(../img/light/appbar.dimension.box.width.png);
+}
+
+.icon.dimension.line.height,
+.icon.dimension.line.height.dark{
+	background: url(../img/dark/appbar.dimension.line.height.png);
+}
+
+.icon.dimension.line.height.light{
+	background: url(../img/light/appbar.dimension.line.height.png);
+}
+
+.icon.dimension.line.height.short,
+.icon.dimension.line.height.short.dark{
+	background: url(../img/dark/appbar.dimension.line.height.short.png);
+}
+
+.icon.dimension.line.height.short.light{
+	background: url(../img/light/appbar.dimension.line.height.short.png);
+}
+
+.icon.dimension.line.width,
+.icon.dimension.line.width.dark{
+	background: url(../img/dark/appbar.dimension.line.width.png);
+}
+
+.icon.dimension.line.width.light{
+	background: url(../img/light/appbar.dimension.line.width.png);
+}
+
+.icon.dimension.line.width.short,
+.icon.dimension.line.width.short.dark{
+	background: url(../img/dark/appbar.dimension.line.width.short.png);
+}
+
+.icon.dimension.line.width.short.light{
+	background: url(../img/light/appbar.dimension.line.width.short.png);
+}
+
+.icon.directions,
+.icon.directions.dark{
+	background: url(../img/dark/appbar.directions.png);
+}
+
+.icon.directions.light{
+	background: url(../img/light/appbar.directions.png);
+}
+
+.icon.disconnect,
+.icon.disconnect.dark{
+	background: url(../img/dark/appbar.disconnect.png);
+}
+
+.icon.disconnect.light{
+	background: url(../img/light/appbar.disconnect.png);
+}
+
+.icon.disk.download,
+.icon.disk.download.dark{
+	background: url(../img/dark/appbar.disk.download.png);
+}
+
+.icon.disk.download.light{
+	background: url(../img/light/appbar.disk.download.png);
+}
+
+.icon.disk,
+.icon.disk.dark{
+	background: url(../img/dark/appbar.disk.png);
+}
+
+.icon.disk.light{
+	background: url(../img/light/appbar.disk.png);
+}
+
+.icon.dnd,
+.icon.dnd.dark{
+	background: url(../img/dark/appbar.dnd.png);
+}
+
+.icon.dnd.light{
+	background: url(../img/light/appbar.dnd.png);
 }
