@@ -8361,3 +8361,1686 @@
 .icon.speakerphone.light{
 	background-image: url(../img/light/appbar.speakerphone.png);
 }
+
+.icon.sport.football,
+.icon.sport.football.dark{
+	background-image: url(../img/dark/appbar.sport.football.png);
+}
+
+.icon.sport.football.light{
+	background-image: url(../img/light/appbar.sport.football.png);
+}
+
+.icon.stairs.down,
+.icon.stairs.down.dark{
+	background-image: url(../img/dark/appbar.stairs.down.png);
+}
+
+.icon.stairs.down.light{
+	background-image: url(../img/light/appbar.stairs.down.png);
+}
+
+.icon.stairs.down.reflect.horizontal,
+.icon.stairs.down.reflect.horizontal.dark{
+	background-image: url(../img/dark/appbar.stairs.down.reflect.horizontal.png);
+}
+
+.icon.stairs.down.reflect.horizontal.light{
+	background-image: url(../img/light/appbar.stairs.down.reflect.horizontal.png);
+}
+
+.icon.stairs.up,
+.icon.stairs.up.dark{
+	background-image: url(../img/dark/appbar.stairs.up.png);
+}
+
+.icon.stairs.up.light{
+	background-image: url(../img/light/appbar.stairs.up.png);
+}
+
+.icon.stairs.up.reflect.horizontal,
+.icon.stairs.up.reflect.horizontal.dark{
+	background-image: url(../img/dark/appbar.stairs.up.reflect.horizontal.png);
+}
+
+.icon.stairs.up.reflect.horizontal.light{
+	background-image: url(../img/light/appbar.stairs.up.reflect.horizontal.png);
+}
+
+.icon.stamp.at,
+.icon.stamp.at.dark{
+	background-image: url(../img/dark/appbar.stamp.at.png);
+}
+
+.icon.stamp.at.light{
+	background-image: url(../img/light/appbar.stamp.at.png);
+}
+
+.icon.stamp.empty,
+.icon.stamp.empty.dark{
+	background-image: url(../img/dark/appbar.stamp.empty.png);
+}
+
+.icon.stamp.empty.light{
+	background-image: url(../img/light/appbar.stamp.empty.png);
+}
+
+.icon.stamp,
+.icon.stamp.dark{
+	background-image: url(../img/dark/appbar.stamp.png);
+}
+
+.icon.stamp.light{
+	background-image: url(../img/light/appbar.stamp.png);
+}
+
+.icon.star.add,
+.icon.star.add.dark{
+	background-image: url(../img/dark/appbar.star.add.png);
+}
+
+.icon.star.add.light{
+	background-image: url(../img/light/appbar.star.add.png);
+}
+
+.icon.star.delete,
+.icon.star.delete.dark{
+	background-image: url(../img/dark/appbar.star.delete.png);
+}
+
+.icon.star.delete.light{
+	background-image: url(../img/light/appbar.star.delete.png);
+}
+
+.icon.star.invincible,
+.icon.star.invincible.dark{
+	background-image: url(../img/dark/appbar.star.invincible.png);
+}
+
+.icon.star.invincible.light{
+	background-image: url(../img/light/appbar.star.invincible.png);
+}
+
+.icon.star.minus,
+.icon.star.minus.dark{
+	background-image: url(../img/dark/appbar.star.minus.png);
+}
+
+.icon.star.minus.light{
+	background-image: url(../img/light/appbar.star.minus.png);
+}
+
+.icon.star,
+.icon.star.dark{
+	background-image: url(../img/dark/appbar.star.png);
+}
+
+.icon.star.light{
+	background-image: url(../img/light/appbar.star.png);
+}
+
+.icon.star.remove,
+.icon.star.remove.dark{
+	background-image: url(../img/dark/appbar.star.remove.png);
+}
+
+.icon.star.remove.light{
+	background-image: url(../img/light/appbar.star.remove.png);
+}
+
+.icon.starwars.jedi,
+.icon.starwars.jedi.dark{
+	background-image: url(../img/dark/appbar.starwars.jedi.png);
+}
+
+.icon.starwars.jedi.light{
+	background-image: url(../img/light/appbar.starwars.jedi.png);
+}
+
+.icon.starwars.rebel,
+.icon.starwars.rebel.dark{
+	background-image: url(../img/dark/appbar.starwars.rebel.png);
+}
+
+.icon.starwars.rebel.light{
+	background-image: url(../img/light/appbar.starwars.rebel.png);
+}
+
+.icon.starwars.sith,
+.icon.starwars.sith.dark{
+	background-image: url(../img/dark/appbar.starwars.sith.png);
+}
+
+.icon.starwars.sith.light{
+	background-image: url(../img/light/appbar.starwars.sith.png);
+}
+
+.icon.steam,
+.icon.steam.dark{
+	background-image: url(../img/dark/appbar.steam.png);
+}
+
+.icon.steam.light{
+	background-image: url(../img/light/appbar.steam.png);
+}
+
+.icon.stock.down,
+.icon.stock.down.dark{
+	background-image: url(../img/dark/appbar.stock.down.png);
+}
+
+.icon.stock.down.light{
+	background-image: url(../img/light/appbar.stock.down.png);
+}
+
+.icon.stock,
+.icon.stock.dark{
+	background-image: url(../img/dark/appbar.stock.png);
+}
+
+.icon.stock.light{
+	background-image: url(../img/light/appbar.stock.png);
+}
+
+.icon.stock.up,
+.icon.stock.up.dark{
+	background-image: url(../img/dark/appbar.stock.up.png);
+}
+
+.icon.stock.up.light{
+	background-image: url(../img/light/appbar.stock.up.png);
+}
+
+.icon.stocking,
+.icon.stocking.dark{
+	background-image: url(../img/dark/appbar.stocking.png);
+}
+
+.icon.stocking.light{
+	background-image: url(../img/light/appbar.stocking.png);
+}
+
+.icon.stop,
+.icon.stop.dark{
+	background-image: url(../img/dark/appbar.stop.png);
+}
+
+.icon.stop.light{
+	background-image: url(../img/light/appbar.stop.png);
+}
+
+.icon.store,
+.icon.store.dark{
+	background-image: url(../img/dark/appbar.store.png);
+}
+
+.icon.store.light{
+	background-image: url(../img/light/appbar.store.png);
+}
+
+.icon.stream,
+.icon.stream.dark{
+	background-image: url(../img/dark/appbar.stream.png);
+}
+
+.icon.stream.light{
+	background-image: url(../img/light/appbar.stream.png);
+}
+
+.icon.suitcase,
+.icon.suitcase.dark{
+	background-image: url(../img/dark/appbar.suitcase.png);
+}
+
+.icon.suitcase.light{
+	background-image: url(../img/light/appbar.suitcase.png);
+}
+
+.icon.switch.off,
+.icon.switch.off.dark{
+	background-image: url(../img/dark/appbar.switch.off.png);
+}
+
+.icon.switch.off.light{
+	background-image: url(../img/light/appbar.switch.off.png);
+}
+
+.icon.table.add,
+.icon.table.add.dark{
+	background-image: url(../img/dark/appbar.table.add.png);
+}
+
+.icon.table.add.light{
+	background-image: url(../img/light/appbar.table.add.png);
+}
+
+.icon.table.delete,
+.icon.table.delete.dark{
+	background-image: url(../img/dark/appbar.table.delete.png);
+}
+
+.icon.table.delete.light{
+	background-image: url(../img/light/appbar.table.delete.png);
+}
+
+.icon.table,
+.icon.table.dark{
+	background-image: url(../img/dark/appbar.table.png);
+}
+
+.icon.table.light{
+	background-image: url(../img/light/appbar.table.png);
+}
+
+.icon.table.select,
+.icon.table.select.dark{
+	background-image: url(../img/dark/appbar.table.select.png);
+}
+
+.icon.table.select.light{
+	background-image: url(../img/light/appbar.table.select.png);
+}
+
+.icon.table.unselect,
+.icon.table.unselect.dark{
+	background-image: url(../img/dark/appbar.table.unselect.png);
+}
+
+.icon.table.unselect.light{
+	background-image: url(../img/light/appbar.table.unselect.png);
+}
+
+.icon.tag.label,
+.icon.tag.label.dark{
+	background-image: url(../img/dark/appbar.tag.label.png);
+}
+
+.icon.tag.label.light{
+	background-image: url(../img/light/appbar.tag.label.png);
+}
+
+.icon.tag,
+.icon.tag.dark{
+	background-image: url(../img/dark/appbar.tag.png);
+}
+
+.icon.tag.light{
+	background-image: url(../img/light/appbar.tag.png);
+}
+
+.icon.tardis,
+.icon.tardis.dark{
+	background-image: url(../img/dark/appbar.tardis.png);
+}
+
+.icon.tardis.light{
+	background-image: url(../img/light/appbar.tardis.png);
+}
+
+.icon.text.align.center,
+.icon.text.align.center.dark{
+	background-image: url(../img/dark/appbar.text.align.center.png);
+}
+
+.icon.text.align.center.light{
+	background-image: url(../img/light/appbar.text.align.center.png);
+}
+
+.icon.text.align.justify,
+.icon.text.align.justify.dark{
+	background-image: url(../img/dark/appbar.text.align.justify.png);
+}
+
+.icon.text.align.justify.light{
+	background-image: url(../img/light/appbar.text.align.justify.png);
+}
+
+.icon.text.align.left,
+.icon.text.align.left.dark{
+	background-image: url(../img/dark/appbar.text.align.left.png);
+}
+
+.icon.text.align.left.light{
+	background-image: url(../img/light/appbar.text.align.left.png);
+}
+
+.icon.text.align.right,
+.icon.text.align.right.dark{
+	background-image: url(../img/dark/appbar.text.align.right.png);
+}
+
+.icon.text.align.right.light{
+	background-image: url(../img/light/appbar.text.align.right.png);
+}
+
+.icon.text.bold,
+.icon.text.bold.dark{
+	background-image: url(../img/dark/appbar.text.bold.png);
+}
+
+.icon.text.bold.light{
+	background-image: url(../img/light/appbar.text.bold.png);
+}
+
+.icon.text.italic,
+.icon.text.italic.dark{
+	background-image: url(../img/dark/appbar.text.italic.png);
+}
+
+.icon.text.italic.light{
+	background-image: url(../img/light/appbar.text.italic.png);
+}
+
+.icon.text.overline,
+.icon.text.overline.dark{
+	background-image: url(../img/dark/appbar.text.overline.png);
+}
+
+.icon.text.overline.light{
+	background-image: url(../img/light/appbar.text.overline.png);
+}
+
+.icon.text.sans,
+.icon.text.sans.dark{
+	background-image: url(../img/dark/appbar.text.sans.png);
+}
+
+.icon.text.sans.light{
+	background-image: url(../img/light/appbar.text.sans.png);
+}
+
+.icon.text.script,
+.icon.text.script.dark{
+	background-image: url(../img/dark/appbar.text.script.png);
+}
+
+.icon.text.script.light{
+	background-image: url(../img/light/appbar.text.script.png);
+}
+
+.icon.text.serif,
+.icon.text.serif.dark{
+	background-image: url(../img/dark/appbar.text.serif.png);
+}
+
+.icon.text.serif.light{
+	background-image: url(../img/light/appbar.text.serif.png);
+}
+
+.icon.text.size.down,
+.icon.text.size.down.dark{
+	background-image: url(../img/dark/appbar.text.size.down.png);
+}
+
+.icon.text.size.down.light{
+	background-image: url(../img/light/appbar.text.size.down.png);
+}
+
+.icon.text.size.minus,
+.icon.text.size.minus.dark{
+	background-image: url(../img/dark/appbar.text.size.minus.png);
+}
+
+.icon.text.size.minus.light{
+	background-image: url(../img/light/appbar.text.size.minus.png);
+}
+
+.icon.text.size.plus,
+.icon.text.size.plus.dark{
+	background-image: url(../img/dark/appbar.text.size.plus.png);
+}
+
+.icon.text.size.plus.light{
+	background-image: url(../img/light/appbar.text.size.plus.png);
+}
+
+.icon.text.size,
+.icon.text.size.dark{
+	background-image: url(../img/dark/appbar.text.size.png);
+}
+
+.icon.text.size.light{
+	background-image: url(../img/light/appbar.text.size.png);
+}
+
+.icon.text.size.up,
+.icon.text.size.up.dark{
+	background-image: url(../img/dark/appbar.text.size.up.png);
+}
+
+.icon.text.size.up.light{
+	background-image: url(../img/light/appbar.text.size.up.png);
+}
+
+.icon.text.strikethrough,
+.icon.text.strikethrough.dark{
+	background-image: url(../img/dark/appbar.text.strikethrough.png);
+}
+
+.icon.text.strikethrough.light{
+	background-image: url(../img/light/appbar.text.strikethrough.png);
+}
+
+.icon.text.underline,
+.icon.text.underline.dark{
+	background-image: url(../img/dark/appbar.text.underline.png);
+}
+
+.icon.text.underline.light{
+	background-image: url(../img/light/appbar.text.underline.png);
+}
+
+.icon.thermometer.celcius,
+.icon.thermometer.celcius.dark{
+	background-image: url(../img/dark/appbar.thermometer.celcius.png);
+}
+
+.icon.thermometer.celcius.light{
+	background-image: url(../img/light/appbar.thermometer.celcius.png);
+}
+
+.icon.thermometer.digital,
+.icon.thermometer.digital.dark{
+	background-image: url(../img/dark/appbar.thermometer.digital.png);
+}
+
+.icon.thermometer.digital.light{
+	background-image: url(../img/light/appbar.thermometer.digital.png);
+}
+
+.icon.thermometer.fahrenheit,
+.icon.thermometer.fahrenheit.dark{
+	background-image: url(../img/dark/appbar.thermometer.fahrenheit.png);
+}
+
+.icon.thermometer.fahrenheit.light{
+	background-image: url(../img/light/appbar.thermometer.fahrenheit.png);
+}
+
+.icon.thermometer.honeywell,
+.icon.thermometer.honeywell.dark{
+	background-image: url(../img/dark/appbar.thermometer.honeywell.png);
+}
+
+.icon.thermometer.honeywell.light{
+	background-image: url(../img/light/appbar.thermometer.honeywell.png);
+}
+
+.icon.thermometer.kelvin,
+.icon.thermometer.kelvin.dark{
+	background-image: url(../img/dark/appbar.thermometer.kelvin.png);
+}
+
+.icon.thermometer.kelvin.light{
+	background-image: url(../img/light/appbar.thermometer.kelvin.png);
+}
+
+.icon.thermometer,
+.icon.thermometer.dark{
+	background-image: url(../img/dark/appbar.thermometer.png);
+}
+
+.icon.thermometer.light{
+	background-image: url(../img/light/appbar.thermometer.png);
+}
+
+.icon.thermometer.signs,
+.icon.thermometer.signs.dark{
+	background-image: url(../img/dark/appbar.thermometer.signs.png);
+}
+
+.icon.thermometer.signs.light{
+	background-image: url(../img/light/appbar.thermometer.signs.png);
+}
+
+.icon.thumb.up.add,
+.icon.thumb.up.add.dark{
+	background-image: url(../img/dark/appbar.thumb.up.add.png);
+}
+
+.icon.thumb.up.add.light{
+	background-image: url(../img/light/appbar.thumb.up.add.png);
+}
+
+.icon.thumb.up.delete,
+.icon.thumb.up.delete.dark{
+	background-image: url(../img/dark/appbar.thumb.up.delete.png);
+}
+
+.icon.thumb.up.delete.light{
+	background-image: url(../img/light/appbar.thumb.up.delete.png);
+}
+
+.icon.thumb.up.minus,
+.icon.thumb.up.minus.dark{
+	background-image: url(../img/dark/appbar.thumb.up.minus.png);
+}
+
+.icon.thumb.up.minus.light{
+	background-image: url(../img/light/appbar.thumb.up.minus.png);
+}
+
+.icon.thumbs.down,
+.icon.thumbs.down.dark{
+	background-image: url(../img/dark/appbar.thumbs.down.png);
+}
+
+.icon.thumbs.down.light{
+	background-image: url(../img/light/appbar.thumbs.down.png);
+}
+
+.icon.thumbs.up,
+.icon.thumbs.up.dark{
+	background-image: url(../img/dark/appbar.thumbs.up.png);
+}
+
+.icon.thumbs.up.light{
+	background-image: url(../img/light/appbar.thumbs.up.png);
+}
+
+.icon.ticket,
+.icon.ticket.dark{
+	background-image: url(../img/dark/appbar.ticket.png);
+}
+
+.icon.ticket.light{
+	background-image: url(../img/light/appbar.ticket.png);
+}
+
+.icon.tiles.four,
+.icon.tiles.four.dark{
+	background-image: url(../img/dark/appbar.tiles.four.png);
+}
+
+.icon.tiles.four.light{
+	background-image: url(../img/light/appbar.tiles.four.png);
+}
+
+.icon.tiles.minus,
+.icon.tiles.minus.dark{
+	background-image: url(../img/dark/appbar.tiles.minus.png);
+}
+
+.icon.tiles.minus.light{
+	background-image: url(../img/light/appbar.tiles.minus.png);
+}
+
+.icon.tiles.nine,
+.icon.tiles.nine.dark{
+	background-image: url(../img/dark/appbar.tiles.nine.png);
+}
+
+.icon.tiles.nine.light{
+	background-image: url(../img/light/appbar.tiles.nine.png);
+}
+
+.icon.tiles.plus,
+.icon.tiles.plus.dark{
+	background-image: url(../img/dark/appbar.tiles.plus.png);
+}
+
+.icon.tiles.plus.light{
+	background-image: url(../img/light/appbar.tiles.plus.png);
+}
+
+.icon.tiles.sixteen,
+.icon.tiles.sixteen.dark{
+	background-image: url(../img/dark/appbar.tiles.sixteen.png);
+}
+
+.icon.tiles.sixteen.light{
+	background-image: url(../img/light/appbar.tiles.sixteen.png);
+}
+
+.icon.timer.1,
+.icon.timer.1.dark{
+	background-image: url(../img/dark/appbar.timer.1.png);
+}
+
+.icon.timer.1.light{
+	background-image: url(../img/light/appbar.timer.1.png);
+}
+
+.icon.timer.2,
+.icon.timer.2.dark{
+	background-image: url(../img/dark/appbar.timer.2.png);
+}
+
+.icon.timer.2.light{
+	background-image: url(../img/light/appbar.timer.2.png);
+}
+
+.icon.timer.3,
+.icon.timer.3.dark{
+	background-image: url(../img/dark/appbar.timer.3.png);
+}
+
+.icon.timer.3.light{
+	background-image: url(../img/light/appbar.timer.3.png);
+}
+
+.icon.timer.4,
+.icon.timer.4.dark{
+	background-image: url(../img/dark/appbar.timer.4.png);
+}
+
+.icon.timer.4.light{
+	background-image: url(../img/light/appbar.timer.4.png);
+}
+
+.icon.timer.5,
+.icon.timer.5.dark{
+	background-image: url(../img/dark/appbar.timer.5.png);
+}
+
+.icon.timer.5.light{
+	background-image: url(../img/light/appbar.timer.5.png);
+}
+
+.icon.timer.alert,
+.icon.timer.alert.dark{
+	background-image: url(../img/dark/appbar.timer.alert.png);
+}
+
+.icon.timer.alert.light{
+	background-image: url(../img/light/appbar.timer.alert.png);
+}
+
+.icon.timer.check,
+.icon.timer.check.dark{
+	background-image: url(../img/dark/appbar.timer.check.png);
+}
+
+.icon.timer.check.light{
+	background-image: url(../img/light/appbar.timer.check.png);
+}
+
+.icon.timer.forward,
+.icon.timer.forward.dark{
+	background-image: url(../img/dark/appbar.timer.forward.png);
+}
+
+.icon.timer.forward.light{
+	background-image: url(../img/light/appbar.timer.forward.png);
+}
+
+.icon.timer.pause,
+.icon.timer.pause.dark{
+	background-image: url(../img/dark/appbar.timer.pause.png);
+}
+
+.icon.timer.pause.light{
+	background-image: url(../img/light/appbar.timer.pause.png);
+}
+
+.icon.timer.play,
+.icon.timer.play.dark{
+	background-image: url(../img/dark/appbar.timer.play.png);
+}
+
+.icon.timer.play.light{
+	background-image: url(../img/light/appbar.timer.play.png);
+}
+
+.icon.timer,
+.icon.timer.dark{
+	background-image: url(../img/dark/appbar.timer.png);
+}
+
+.icon.timer.light{
+	background-image: url(../img/light/appbar.timer.png);
+}
+
+.icon.timer.record,
+.icon.timer.record.dark{
+	background-image: url(../img/dark/appbar.timer.record.png);
+}
+
+.icon.timer.record.light{
+	background-image: url(../img/light/appbar.timer.record.png);
+}
+
+.icon.timer.rewind,
+.icon.timer.rewind.dark{
+	background-image: url(../img/dark/appbar.timer.rewind.png);
+}
+
+.icon.timer.rewind.light{
+	background-image: url(../img/light/appbar.timer.rewind.png);
+}
+
+.icon.timer.stop,
+.icon.timer.stop.dark{
+	background-image: url(../img/dark/appbar.timer.stop.png);
+}
+
+.icon.timer.stop.light{
+	background-image: url(../img/light/appbar.timer.stop.png);
+}
+
+.icon.tools,
+.icon.tools.dark{
+	background-image: url(../img/dark/appbar.tools.png);
+}
+
+.icon.tools.light{
+	background-image: url(../img/light/appbar.tools.png);
+}
+
+.icon.tournament.bracket.down,
+.icon.tournament.bracket.down.dark{
+	background-image: url(../img/dark/appbar.tournament.bracket.down.png);
+}
+
+.icon.tournament.bracket.down.light{
+	background-image: url(../img/light/appbar.tournament.bracket.down.png);
+}
+
+.icon.tournament.bracket.left,
+.icon.tournament.bracket.left.dark{
+	background-image: url(../img/dark/appbar.tournament.bracket.left.png);
+}
+
+.icon.tournament.bracket.left.light{
+	background-image: url(../img/light/appbar.tournament.bracket.left.png);
+}
+
+.icon.tournament.bracket,
+.icon.tournament.bracket.dark{
+	background-image: url(../img/dark/appbar.tournament.bracket.png);
+}
+
+.icon.tournament.bracket.light{
+	background-image: url(../img/light/appbar.tournament.bracket.png);
+}
+
+.icon.tournament.bracket.right,
+.icon.tournament.bracket.right.dark{
+	background-image: url(../img/dark/appbar.tournament.bracket.right.png);
+}
+
+.icon.tournament.bracket.right.light{
+	background-image: url(../img/light/appbar.tournament.bracket.right.png);
+}
+
+.icon.tournament.bracket.up,
+.icon.tournament.bracket.up.dark{
+	background-image: url(../img/dark/appbar.tournament.bracket.up.png);
+}
+
+.icon.tournament.bracket.up.light{
+	background-image: url(../img/light/appbar.tournament.bracket.up.png);
+}
+
+.icon.tower,
+.icon.tower.dark{
+	background-image: url(../img/dark/appbar.tower.png);
+}
+
+.icon.tower.light{
+	background-image: url(../img/light/appbar.tower.png);
+}
+
+.icon.train,
+.icon.train.dark{
+	background-image: url(../img/dark/appbar.train.png);
+}
+
+.icon.train.light{
+	background-image: url(../img/light/appbar.train.png);
+}
+
+.icon.train.track,
+.icon.train.track.dark{
+	background-image: url(../img/dark/appbar.train.track.png);
+}
+
+.icon.train.track.light{
+	background-image: url(../img/light/appbar.train.track.png);
+}
+
+.icon.train.tunnel,
+.icon.train.tunnel.dark{
+	background-image: url(../img/dark/appbar.train.tunnel.png);
+}
+
+.icon.train.tunnel.light{
+	background-image: url(../img/light/appbar.train.tunnel.png);
+}
+
+.icon.transform.flip.horizontal,
+.icon.transform.flip.horizontal.dark{
+	background-image: url(../img/dark/appbar.transform.flip.horizontal.png);
+}
+
+.icon.transform.flip.horizontal.light{
+	background-image: url(../img/light/appbar.transform.flip.horizontal.png);
+}
+
+.icon.transform.flip.vertical,
+.icon.transform.flip.vertical.dark{
+	background-image: url(../img/dark/appbar.transform.flip.vertical.png);
+}
+
+.icon.transform.flip.vertical.light{
+	background-image: url(../img/light/appbar.transform.flip.vertical.png);
+}
+
+.icon.transform.rotate.clockwise,
+.icon.transform.rotate.clockwise.dark{
+	background-image: url(../img/dark/appbar.transform.rotate.clockwise.png);
+}
+
+.icon.transform.rotate.clockwise.light{
+	background-image: url(../img/light/appbar.transform.rotate.clockwise.png);
+}
+
+.icon.transform.rotate.counterclockwise,
+.icon.transform.rotate.counterclockwise.dark{
+	background-image: url(../img/dark/appbar.transform.rotate.counterclockwise.png);
+}
+
+.icon.transform.rotate.counterclockwise.light{
+	background-image: url(../img/light/appbar.transform.rotate.counterclockwise.png);
+}
+
+.icon.transform.rotate.left,
+.icon.transform.rotate.left.dark{
+	background-image: url(../img/dark/appbar.transform.rotate.left.png);
+}
+
+.icon.transform.rotate.left.light{
+	background-image: url(../img/light/appbar.transform.rotate.left.png);
+}
+
+.icon.transform.rotate.right,
+.icon.transform.rotate.right.dark{
+	background-image: url(../img/dark/appbar.transform.rotate.right.png);
+}
+
+.icon.transform.rotate.right.light{
+	background-image: url(../img/light/appbar.transform.rotate.right.png);
+}
+
+.icon.transit.arrive,
+.icon.transit.arrive.dark{
+	background-image: url(../img/dark/appbar.transit.arrive.png);
+}
+
+.icon.transit.arrive.light{
+	background-image: url(../img/light/appbar.transit.arrive.png);
+}
+
+.icon.transit.bus,
+.icon.transit.bus.dark{
+	background-image: url(../img/dark/appbar.transit.bus.png);
+}
+
+.icon.transit.bus.light{
+	background-image: url(../img/light/appbar.transit.bus.png);
+}
+
+.icon.transit.car.accident,
+.icon.transit.car.accident.dark{
+	background-image: url(../img/dark/appbar.transit.car.accident.png);
+}
+
+.icon.transit.car.accident.light{
+	background-image: url(../img/light/appbar.transit.car.accident.png);
+}
+
+.icon.transit.car,
+.icon.transit.car.dark{
+	background-image: url(../img/dark/appbar.transit.car.png);
+}
+
+.icon.transit.car.light{
+	background-image: url(../img/light/appbar.transit.car.png);
+}
+
+.icon.transit.congestion,
+.icon.transit.congestion.dark{
+	background-image: url(../img/dark/appbar.transit.congestion.png);
+}
+
+.icon.transit.congestion.light{
+	background-image: url(../img/light/appbar.transit.congestion.png);
+}
+
+.icon.transit.connection.departure,
+.icon.transit.connection.departure.dark{
+	background-image: url(../img/dark/appbar.transit.connection.departure.png);
+}
+
+.icon.transit.connection.departure.light{
+	background-image: url(../img/light/appbar.transit.connection.departure.png);
+}
+
+.icon.transit.connection,
+.icon.transit.connection.dark{
+	background-image: url(../img/dark/appbar.transit.connection.png);
+}
+
+.icon.transit.connection.light{
+	background-image: url(../img/light/appbar.transit.connection.png);
+}
+
+.icon.transit.construction,
+.icon.transit.construction.dark{
+	background-image: url(../img/dark/appbar.transit.construction.png);
+}
+
+.icon.transit.construction.light{
+	background-image: url(../img/light/appbar.transit.construction.png);
+}
+
+.icon.transit.depart,
+.icon.transit.depart.dark{
+	background-image: url(../img/dark/appbar.transit.depart.png);
+}
+
+.icon.transit.depart.light{
+	background-image: url(../img/light/appbar.transit.depart.png);
+}
+
+.icon.transit.distance.from,
+.icon.transit.distance.from.dark{
+	background-image: url(../img/dark/appbar.transit.distance.from.png);
+}
+
+.icon.transit.distance.from.light{
+	background-image: url(../img/light/appbar.transit.distance.from.png);
+}
+
+.icon.transit.distance.to,
+.icon.transit.distance.to.dark{
+	background-image: url(../img/dark/appbar.transit.distance.to.png);
+}
+
+.icon.transit.distance.to.light{
+	background-image: url(../img/light/appbar.transit.distance.to.png);
+}
+
+.icon.transit.hazard,
+.icon.transit.hazard.dark{
+	background-image: url(../img/dark/appbar.transit.hazard.png);
+}
+
+.icon.transit.hazard.light{
+	background-image: url(../img/light/appbar.transit.hazard.png);
+}
+
+.icon.tree.leaf,
+.icon.tree.leaf.dark{
+	background-image: url(../img/dark/appbar.tree.leaf.png);
+}
+
+.icon.tree.leaf.light{
+	background-image: url(../img/light/appbar.tree.leaf.png);
+}
+
+.icon.tree.leaf.three,
+.icon.tree.leaf.three.dark{
+	background-image: url(../img/dark/appbar.tree.leaf.three.png);
+}
+
+.icon.tree.leaf.three.light{
+	background-image: url(../img/light/appbar.tree.leaf.three.png);
+}
+
+.icon.tree.pine,
+.icon.tree.pine.dark{
+	background-image: url(../img/dark/appbar.tree.pine.png);
+}
+
+.icon.tree.pine.light{
+	background-image: url(../img/light/appbar.tree.pine.png);
+}
+
+.icon.tree,
+.icon.tree.dark{
+	background-image: url(../img/dark/appbar.tree.png);
+}
+
+.icon.tree.light{
+	background-image: url(../img/light/appbar.tree.png);
+}
+
+.icon.trophy,
+.icon.trophy.dark{
+	background-image: url(../img/dark/appbar.trophy.png);
+}
+
+.icon.trophy.light{
+	background-image: url(../img/light/appbar.trophy.png);
+}
+
+.icon.truck,
+.icon.truck.dark{
+	background-image: url(../img/dark/appbar.truck.png);
+}
+
+.icon.truck.light{
+	background-image: url(../img/light/appbar.truck.png);
+}
+
+.icon.tux,
+.icon.tux.dark{
+	background-image: url(../img/dark/appbar.tux.png);
+}
+
+.icon.tux.light{
+	background-image: url(../img/light/appbar.tux.png);
+}
+
+.icon.tv.news,
+.icon.tv.news.dark{
+	background-image: url(../img/dark/appbar.tv.news.png);
+}
+
+.icon.tv.news.light{
+	background-image: url(../img/light/appbar.tv.news.png);
+}
+
+.icon.tv,
+.icon.tv.dark{
+	background-image: url(../img/dark/appbar.tv.png);
+}
+
+.icon.tv.light{
+	background-image: url(../img/light/appbar.tv.png);
+}
+
+.icon.tv.remote,
+.icon.tv.remote.dark{
+	background-image: url(../img/dark/appbar.tv.remote.png);
+}
+
+.icon.tv.remote.light{
+	background-image: url(../img/light/appbar.tv.remote.png);
+}
+
+.icon.tv.syfy,
+.icon.tv.syfy.dark{
+	background-image: url(../img/dark/appbar.tv.syfy.png);
+}
+
+.icon.tv.syfy.light{
+	background-image: url(../img/light/appbar.tv.syfy.png);
+}
+
+.icon.twitter.bird,
+.icon.twitter.bird.dark{
+	background-image: url(../img/dark/appbar.twitter.bird.png);
+}
+
+.icon.twitter.bird.light{
+	background-image: url(../img/light/appbar.twitter.bird.png);
+}
+
+.icon.twitter,
+.icon.twitter.dark{
+	background-image: url(../img/dark/appbar.twitter.png);
+}
+
+.icon.twitter.light{
+	background-image: url(../img/light/appbar.twitter.png);
+}
+
+.icon.undo.curve,
+.icon.undo.curve.dark{
+	background-image: url(../img/dark/appbar.undo.curve.png);
+}
+
+.icon.undo.curve.light{
+	background-image: url(../img/light/appbar.undo.curve.png);
+}
+
+.icon.undo,
+.icon.undo.dark{
+	background-image: url(../img/dark/appbar.undo.png);
+}
+
+.icon.undo.light{
+	background-image: url(../img/light/appbar.undo.png);
+}
+
+.icon.undo.point,
+.icon.undo.point.dark{
+	background-image: url(../img/dark/appbar.undo.point.png);
+}
+
+.icon.undo.point.light{
+	background-image: url(../img/light/appbar.undo.point.png);
+}
+
+.icon.unlock.keyhole,
+.icon.unlock.keyhole.dark{
+	background-image: url(../img/dark/appbar.unlock.keyhole.png);
+}
+
+.icon.unlock.keyhole.light{
+	background-image: url(../img/light/appbar.unlock.keyhole.png);
+}
+
+.icon.unlock,
+.icon.unlock.dark{
+	background-image: url(../img/dark/appbar.unlock.png);
+}
+
+.icon.unlock.light{
+	background-image: url(../img/light/appbar.unlock.png);
+}
+
+.icon.upload,
+.icon.upload.dark{
+	background-image: url(../img/dark/appbar.upload.png);
+}
+
+.icon.upload.light{
+	background-image: url(../img/light/appbar.upload.png);
+}
+
+.icon.usb.drive,
+.icon.usb.drive.dark{
+	background-image: url(../img/dark/appbar.usb.drive.png);
+}
+
+.icon.usb.drive.light{
+	background-image: url(../img/light/appbar.usb.drive.png);
+}
+
+.icon.usb,
+.icon.usb.dark{
+	background-image: url(../img/dark/appbar.usb.png);
+}
+
+.icon.usb.light{
+	background-image: url(../img/light/appbar.usb.png);
+}
+
+.icon.user.add,
+.icon.user.add.dark{
+	background-image: url(../img/dark/appbar.user.add.png);
+}
+
+.icon.user.add.light{
+	background-image: url(../img/light/appbar.user.add.png);
+}
+
+.icon.user.delete,
+.icon.user.delete.dark{
+	background-image: url(../img/dark/appbar.user.delete.png);
+}
+
+.icon.user.delete.light{
+	background-image: url(../img/light/appbar.user.delete.png);
+}
+
+.icon.user.minus,
+.icon.user.minus.dark{
+	background-image: url(../img/dark/appbar.user.minus.png);
+}
+
+.icon.user.minus.light{
+	background-image: url(../img/light/appbar.user.minus.png);
+}
+
+.icon.user,
+.icon.user.dark{
+	background-image: url(../img/dark/appbar.user.png);
+}
+
+.icon.user.light{
+	background-image: url(../img/light/appbar.user.png);
+}
+
+.icon.user.tie,
+.icon.user.tie.dark{
+	background-image: url(../img/dark/appbar.user.tie.png);
+}
+
+.icon.user.tie.light{
+	background-image: url(../img/light/appbar.user.tie.png);
+}
+
+.icon.uservoice,
+.icon.uservoice.dark{
+	background-image: url(../img/dark/appbar.uservoice.png);
+}
+
+.icon.uservoice.light{
+	background-image: url(../img/light/appbar.uservoice.png);
+}
+
+.icon.vector.circle,
+.icon.vector.circle.dark{
+	background-image: url(../img/dark/appbar.vector.circle.png);
+}
+
+.icon.vector.circle.light{
+	background-image: url(../img/light/appbar.vector.circle.png);
+}
+
+.icon.vector.group,
+.icon.vector.group.dark{
+	background-image: url(../img/dark/appbar.vector.group.png);
+}
+
+.icon.vector.group.light{
+	background-image: url(../img/light/appbar.vector.group.png);
+}
+
+.icon.vector.group.removed,
+.icon.vector.group.removed.dark{
+	background-image: url(../img/dark/appbar.vector.group.removed.png);
+}
+
+.icon.vector.group.removed.light{
+	background-image: url(../img/light/appbar.vector.group.removed.png);
+}
+
+.icon.vector.line.curve,
+.icon.vector.line.curve.dark{
+	background-image: url(../img/dark/appbar.vector.line.curve.png);
+}
+
+.icon.vector.line.curve.light{
+	background-image: url(../img/light/appbar.vector.line.curve.png);
+}
+
+.icon.vector.line,
+.icon.vector.line.dark{
+	background-image: url(../img/dark/appbar.vector.line.png);
+}
+
+.icon.vector.line.light{
+	background-image: url(../img/light/appbar.vector.line.png);
+}
+
+.icon.vector.line.spline,
+.icon.vector.line.spline.dark{
+	background-image: url(../img/dark/appbar.vector.line.spline.png);
+}
+
+.icon.vector.line.spline.light{
+	background-image: url(../img/light/appbar.vector.line.spline.png);
+}
+
+.icon.vector.pen.add,
+.icon.vector.pen.add.dark{
+	background-image: url(../img/dark/appbar.vector.pen.add.png);
+}
+
+.icon.vector.pen.add.light{
+	background-image: url(../img/light/appbar.vector.pen.add.png);
+}
+
+.icon.vector.pen.convert,
+.icon.vector.pen.convert.dark{
+	background-image: url(../img/dark/appbar.vector.pen.convert.png);
+}
+
+.icon.vector.pen.convert.light{
+	background-image: url(../img/light/appbar.vector.pen.convert.png);
+}
+
+.icon.vector.pen.minus,
+.icon.vector.pen.minus.dark{
+	background-image: url(../img/dark/appbar.vector.pen.minus.png);
+}
+
+.icon.vector.pen.minus.light{
+	background-image: url(../img/light/appbar.vector.pen.minus.png);
+}
+
+.icon.vector.pen,
+.icon.vector.pen.dark{
+	background-image: url(../img/dark/appbar.vector.pen.png);
+}
+
+.icon.vector.pen.light{
+	background-image: url(../img/light/appbar.vector.pen.png);
+}
+
+.icon.vector.polygon,
+.icon.vector.polygon.dark{
+	background-image: url(../img/dark/appbar.vector.polygon.png);
+}
+
+.icon.vector.polygon.light{
+	background-image: url(../img/light/appbar.vector.polygon.png);
+}
+
+.icon.vector.rectangle,
+.icon.vector.rectangle.dark{
+	background-image: url(../img/dark/appbar.vector.rectangle.png);
+}
+
+.icon.vector.rectangle.light{
+	background-image: url(../img/light/appbar.vector.rectangle.png);
+}
+
+.icon.vector.star,
+.icon.vector.star.dark{
+	background-image: url(../img/dark/appbar.vector.star.png);
+}
+
+.icon.vector.star.light{
+	background-image: url(../img/light/appbar.vector.star.png);
+}
+
+.icon.video.gallery,
+.icon.video.gallery.dark{
+	background-image: url(../img/dark/appbar.video.gallery.png);
+}
+
+.icon.video.gallery.light{
+	background-image: url(../img/light/appbar.video.gallery.png);
+}
+
+.icon.video.highdefinition,
+.icon.video.highdefinition.dark{
+	background-image: url(../img/dark/appbar.video.highdefinition.png);
+}
+
+.icon.video.highdefinition.light{
+	background-image: url(../img/light/appbar.video.highdefinition.png);
+}
+
+.icon.video,
+.icon.video.dark{
+	background-image: url(../img/dark/appbar.video.png);
+}
+
+.icon.video.light{
+	background-image: url(../img/light/appbar.video.png);
+}
+
+.icon.video.send,
+.icon.video.send.dark{
+	background-image: url(../img/dark/appbar.video.send.png);
+}
+
+.icon.video.send.light{
+	background-image: url(../img/light/appbar.video.send.png);
+}
+
+.icon.video.standarddefinition,
+.icon.video.standarddefinition.dark{
+	background-image: url(../img/dark/appbar.video.standarddefinition.png);
+}
+
+.icon.video.standarddefinition.light{
+	background-image: url(../img/light/appbar.video.standarddefinition.png);
+}
+
+.icon.vip.lowercase,
+.icon.vip.lowercase.dark{
+	background-image: url(../img/dark/appbar.vip.lowercase.png);
+}
+
+.icon.vip.lowercase.light{
+	background-image: url(../img/light/appbar.vip.lowercase.png);
+}
+
+.icon.vip,
+.icon.vip.dark{
+	background-image: url(../img/dark/appbar.vip.png);
+}
+
+.icon.vip.light{
+	background-image: url(../img/light/appbar.vip.png);
+}
+
+.icon.visualstudio.news,
+.icon.visualstudio.news.dark{
+	background-image: url(../img/dark/appbar.visualstudio.news.png);
+}
+
+.icon.visualstudio.news.light{
+	background-image: url(../img/light/appbar.visualstudio.news.png);
+}
+
+.icon.visualstudio,
+.icon.visualstudio.dark{
+	background-image: url(../img/dark/appbar.visualstudio.png);
+}
+
+.icon.visualstudio.light{
+	background-image: url(../img/light/appbar.visualstudio.png);
+}
+
+.icon.warning.circle,
+.icon.warning.circle.dark{
+	background-image: url(../img/dark/appbar.warning.circle.png);
+}
+
+.icon.warning.circle.light{
+	background-image: url(../img/light/appbar.warning.circle.png);
+}
+
+.icon.warning,
+.icon.warning.dark{
+	background-image: url(../img/dark/appbar.warning.png);
+}
+
+.icon.warning.light{
+	background-image: url(../img/light/appbar.warning.png);
+}
+
+.icon.water.droplet.alert,
+.icon.water.droplet.alert.dark{
+	background-image: url(../img/dark/appbar.water.droplet.alert.png);
+}
+
+.icon.water.droplet.alert.light{
+	background-image: url(../img/light/appbar.water.droplet.alert.png);
+}
+
+.icon.water.droplet,
+.icon.water.droplet.dark{
+	background-image: url(../img/dark/appbar.water.droplet.png);
+}
+
+.icon.water.droplet.light{
+	background-image: url(../img/light/appbar.water.droplet.png);
+}
+
+.icon.water.droplet.reflection,
+.icon.water.droplet.reflection.dark{
+	background-image: url(../img/dark/appbar.water.droplet.reflection.png);
+}
+
+.icon.water.droplet.reflection.light{
+	background-image: url(../img/light/appbar.water.droplet.reflection.png);
+}
+
+.icon.weather.chance,
+.icon.weather.chance.dark{
+	background-image: url(../img/dark/appbar.weather.chance.png);
+}
+
+.icon.weather.chance.light{
+	background-image: url(../img/light/appbar.weather.chance.png);
+}
+
+.icon.weather.overcast,
+.icon.weather.overcast.dark{
+	background-image: url(../img/dark/appbar.weather.overcast.png);
+}
+
+.icon.weather.overcast.light{
+	background-image: url(../img/light/appbar.weather.overcast.png);
+}
+
+.icon.weather.rain,
+.icon.weather.rain.dark{
+	background-image: url(../img/dark/appbar.weather.rain.png);
+}
+
+.icon.weather.rain.light{
+	background-image: url(../img/light/appbar.weather.rain.png);
+}
+
+.icon.weather.snow,
+.icon.weather.snow.dark{
+	background-image: url(../img/dark/appbar.weather.snow.png);
+}
+
+.icon.weather.snow.light{
+	background-image: url(../img/light/appbar.weather.snow.png);
+}
+
+.icon.weather.station,
+.icon.weather.station.dark{
+	background-image: url(../img/dark/appbar.weather.station.png);
+}
+
+.icon.weather.station.light{
+	background-image: url(../img/light/appbar.weather.station.png);
+}
+
+.icon.weather.sun,
+.icon.weather.sun.dark{
+	background-image: url(../img/dark/appbar.weather.sun.png);
+}
+
+.icon.weather.sun.light{
+	background-image: url(../img/light/appbar.weather.sun.png);
+}
+
+.icon.weather.sun.rise,
+.icon.weather.sun.rise.dark{
+	background-image: url(../img/dark/appbar.weather.sun.rise.png);
+}
+
+.icon.weather.sun.rise.light{
+	background-image: url(../img/light/appbar.weather.sun.rise.png);
+}
+
+.icon.weather.sun.set,
+.icon.weather.sun.set.dark{
+	background-image: url(../img/dark/appbar.weather.sun.set.png);
+}
+
+.icon.weather.sun.set.light{
+	background-image: url(../img/light/appbar.weather.sun.set.png);
+}
+
+.icon.weather.symbol,
+.icon.weather.symbol.dark{
+	background-image: url(../img/dark/appbar.weather.symbol.png);
+}
+
+.icon.weather.symbol.light{
+	background-image: url(../img/light/appbar.weather.symbol.png);
+}
+
+.icon.weather.thunder,
+.icon.weather.thunder.dark{
+	background-image: url(../img/dark/appbar.weather.thunder.png);
+}
+
+.icon.weather.thunder.light{
+	background-image: url(../img/light/appbar.weather.thunder.png);
+}
+
+.icon.webcam,
+.icon.webcam.dark{
+	background-image: url(../img/dark/appbar.webcam.png);
+}
+
+.icon.webcam.light{
+	background-image: url(../img/light/appbar.webcam.png);
+}
+
+.icon.window.casement.closed,
+.icon.window.casement.closed.dark{
+	background-image: url(../img/dark/appbar.window.casement.closed.png);
+}
+
+.icon.window.casement.closed.light{
+	background-image: url(../img/light/appbar.window.casement.closed.png);
+}
+
+.icon.window.casement,
+.icon.window.casement.dark{
+	background-image: url(../img/dark/appbar.window.casement.png);
+}
+
+.icon.window.casement.light{
+	background-image: url(../img/light/appbar.window.casement.png);
+}
+
+.icon.window.closed,
+.icon.window.closed.dark{
+	background-image: url(../img/dark/appbar.window.closed.png);
+}
+
+.icon.window.closed.light{
+	background-image: url(../img/light/appbar.window.closed.png);
+}
+
+.icon.window,
+.icon.window.dark{
+	background-image: url(../img/dark/appbar.window.png);
+}
+
+.icon.window.light{
+	background-image: url(../img/light/appbar.window.png);
+}
+
+.icon.window.simple,
+.icon.window.simple.dark{
+	background-image: url(../img/dark/appbar.window.simple.png);
+}
+
+.icon.window.simple.light{
+	background-image: url(../img/light/appbar.window.simple.png);
+}
+
+.icon.windowsphone,
+.icon.windowsphone.dark{
+	background-image: url(../img/dark/appbar.windowsphone.png);
+}
+
+.icon.windowsphone.light{
+	background-image: url(../img/light/appbar.windowsphone.png);
+}
+
+.icon.xbox,
+.icon.xbox.dark{
+	background-image: url(../img/dark/appbar.xbox.png);
+}
+
+.icon.xbox.light{
+	background-image: url(../img/light/appbar.xbox.png);
+}
+
+.icon.youtube.play,
+.icon.youtube.play.dark{
+	background-image: url(../img/dark/appbar.youtube.play.png);
+}
+
+.icon.youtube.play.light{
+	background-image: url(../img/light/appbar.youtube.play.png);
+}
+
+.icon.youtube,
+.icon.youtube.dark{
+	background-image: url(../img/dark/appbar.youtube.png);
+}
+
+.icon.youtube.light{
+	background-image: url(../img/light/appbar.youtube.png);
+}
+
+.icon.zune,
+.icon.zune.dark{
+	background-image: url(../img/dark/appbar.zune.png);
+}
+
+.icon.zune.light{
+	background-image: url(../img/light/appbar.zune.png);
+}
