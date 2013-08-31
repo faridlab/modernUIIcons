@@ -21,8 +21,8 @@
 	background-repeat: no-repeat;
 	display: inline-block;
 	width: 20px;
-	height: 18px;
-	background-position: 50% !important;
+	height: 20px;
+	background-position: center center;
 }
 
 .icon.background {
@@ -32,32 +32,32 @@
 
 .icon.medium {
 	width: 40px;
-	height: 37px;
+	height: 40px;
 	/*background-position: -9px !important;*/
 }
 
 .icon.large {
-	width: 54px;
-	height: 50px;
+	width: 64px;
+	height: 64px;
 	/*background-position: 1px !important;*/
 }
 
 .icon.default.background {
 	width : inherit;
 	height : inherit;
-	background-size: 20px 18px !important;
+	background-size: 20px 20px !important;
 }
 
 .icon.medium.background {
 	width : inherit;
 	height : inherit;
-	background-size: 40px 37px !important;
+	background-size: 40px 40px !important;
 }
 
 .icon.large.background {
 	width : inherit;
 	height : inherit;
-	background-size: 54px 50px !important;
+	background-size: 64px 64px !important;
 }
 
 .icon.background.top-left{
@@ -7008,6 +7008,14 @@
 }
 .icon.refresh.light{
 	background-image: url(../img/light/appbar.refresh.png);
+}
+
+.icon.repeat,
+.icon.repeat.dark{
+	background-image: url(../img/dark/appbar.repeat.png);
+}
+.icon.repeat.light{
+	background-image: url(../img/light/appbar.repeat.png);
 }
 
 .icon.reply.calendar,
